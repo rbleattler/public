@@ -32,7 +32,7 @@ maintainers:
     url: https://trueforge.org
 name: duplicacy
 sources:
-  - https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/duplicacy
+  - https://github.com/trueforge-org/containers/tree/main/apps/duplicacy
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/duplicacy
   - https://hotio.dev/containers/duplicacy
 type: application

@@ -32,7 +32,7 @@ maintainers:
 name: duplicati
 sources:
   - https://github.com/duplicati/duplicati
-  - https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/duplicati
+  - https://github.com/trueforge-org/containers/tree/main/apps/duplicati
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/duplicati
 type: application
 version: 16.14.18

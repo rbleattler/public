@@ -32,7 +32,7 @@ maintainers:
 name: airsonic-advanced
 sources:
   - https://github.com/airsonic/airsonic-advanced
-  - https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/airsonic-advanced
+  - https://github.com/trueforge-org/containers/tree/main/apps/airsonic-advanced
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/airsonic-advanced
 type: application
 version: 16.14.20

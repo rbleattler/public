@@ -32,7 +32,7 @@ maintainers:
 name: doplarr
 sources:
   - https://github.com/kiranshila/Doplarr
-  - https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/doplarr
+  - https://github.com/trueforge-org/containers/tree/main/apps/doplarr
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/doplarr
 type: application
 version: 12.14.18

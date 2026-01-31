@@ -34,7 +34,7 @@ maintainers:
     url: https://trueforge.org
 name: kavita
 sources:
-  - https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/kavita
+  - https://github.com/trueforge-org/containers/tree/main/apps/kavita
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kavita
   - https://www.kavitareader.com
 type: application

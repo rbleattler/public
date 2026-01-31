@@ -34,7 +34,7 @@ maintainers:
 name: calibre-web
 sources:
   - https://github.com/janeczku/calibre-web
-  - https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/calibre-web
+  - https://github.com/trueforge-org/containers/tree/main/apps/calibre-web
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/calibre-web
 type: application
 version: 21.14.19
