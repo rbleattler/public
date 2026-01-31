@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: database
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Memcached is a memory-backed database caching solution
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/memcached
+home: https://trueforge.org/truetech/truecharts/charts/stable/memcached
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/memcached.webp
 keywords:
   - memcached
@@ -38,3 +38,4 @@ sources:
   - https://hub.docker.com/r/bitnamisecure/memcached
 type: application
 version: 16.14.17
+

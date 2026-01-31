@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: Cloud
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -21,7 +21,7 @@ dependencies:
 deprecated: false
 description: |
   Cops(http://blog.slucas.fr/en/oss/calibre-opds-php-server) by Sébastien Lucas, stands for Calibre OPDS (and HTML) Php Server.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/cops
+home: https://trueforge.org/truetech/truecharts/charts/stable/cops
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/cops.webp
 keywords:
   - cops
@@ -41,3 +41,4 @@ sources:
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/cops
 type: application
 version: 13.0.0
+

@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: MediaApp-Books
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -21,7 +21,7 @@ dependencies:
 deprecated: false
 description: |
   Mango is a self-hosted manga server and reader. Its features include[br]
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/mango
+home: https://trueforge.org/truetech/truecharts/charts/stable/mango
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/mango.webp
 keywords:
   - mango
@@ -38,3 +38,4 @@ sources:
   - https://hub.docker.com/r/hkalexling/mango
 type: application
 version: 8.13.15
+

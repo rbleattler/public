@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: utilities
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: HTML5 Network Speed Test Server. You can test download & upload speed from any device within your network with a web browser that is IE10 or new.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/openspeedtest
+home: https://trueforge.org/truetech/truecharts/charts/stable/openspeedtest
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/openspeedtest.webp
 keywords:
   - speedtest
@@ -38,3 +38,4 @@ sources:
   - https://hub.docker.com/r/openspeedtest/latest
 type: application
 version: 11.13.15
+

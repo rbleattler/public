@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: Network-Web
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -34,7 +34,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A feature rich and highly flexible OpenSource Social Network Kit written in PHP.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/humhub
+home: https://trueforge.org/truetech/truecharts/charts/stable/humhub
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/humhub.webp
 keywords:
   - humhub
@@ -51,3 +51,4 @@ sources:
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/humhub
 type: application
 version: 12.23.27
+

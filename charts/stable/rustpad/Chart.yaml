@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: Cloud
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Rustpad is an efficient and minimal open-source collaborative text editor based on the operational transformation algorithm. It lets users collaborate in real time while writing code in their browser. Rustpad is completely self-hosted and fits in a tiny Chart, no database required.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/rustpad
+home: https://trueforge.org/truetech/truecharts/charts/stable/rustpad
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/rustpad.webp
 keywords:
   - rustpad
@@ -39,3 +39,4 @@ sources:
   - https://hub.docker.com/r/ekzhang/rustpad
 type: application
 version: 8.13.15
+

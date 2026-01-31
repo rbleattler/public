@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: networking
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Synchronize Pi-hole v6.x configuration to replicas.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/nebula-sync
+home: https://trueforge.org/truetech/truecharts/charts/stable/nebula-sync
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/nebula-sync.webp
 keywords:
   - pihole
@@ -37,3 +37,4 @@ sources:
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nebula-sync
 type: application
 version: 0.13.15
+

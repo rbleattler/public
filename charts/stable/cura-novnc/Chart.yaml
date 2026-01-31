@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: home-automation
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Enjoy Cura directly in your browser with this easy to use Chart
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/cura-novnc
+home: https://trueforge.org/truetech/truecharts/charts/stable/cura-novnc
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/cura-novnc.webp
 keywords:
   - cura-novnc
@@ -38,3 +38,4 @@ sources:
   - https://ultimaker.com/software/ultimaker-cura
 type: application
 version: 11.13.15
+

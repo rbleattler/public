@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: GameServers
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: This Chart will download and install SteamCMD. It will also install Craftopia and run it.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/craftopia
+home: https://trueforge.org/truetech/truecharts/charts/stable/craftopia
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/craftopia.webp
 keywords:
   - craftopia
@@ -37,3 +37,4 @@ sources:
   - https://www.steampowered.com/
 type: application
 version: 8.13.15
+

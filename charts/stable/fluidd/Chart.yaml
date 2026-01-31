@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: utilities
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Fluidd is a free and open-source Klipper web interface for managing your 3d printer.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/fluidd
+home: https://trueforge.org/truetech/truecharts/charts/stable/fluidd
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/fluidd.webp
 keywords:
   - fluidd
@@ -36,3 +36,4 @@ sources:
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/fluidd
 type: application
 version: 12.15.16
+

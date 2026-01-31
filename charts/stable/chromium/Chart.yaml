@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: Productivity
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Chromium is a free and open-source software project developed by the Google-sponsored Chromium project.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/chromium
+home: https://trueforge.org/truetech/truecharts/charts/stable/chromium
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/chromium.webp
 keywords:
   - chromium
@@ -38,3 +38,4 @@ sources:
   - https://www.google.com/chrome/
 type: application
 version: 8.13.16
+

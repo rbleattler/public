@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: Backup
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: The Archive Team Warrior is a virtual archiving appliance. You can run it to help with the Archive Team archiving efforts. It will download sites and upload them to our archive—and it’s really easy to do!
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/archiveteam-warrior
+home: https://trueforge.org/truetech/truecharts/charts/stable/archiveteam-warrior
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/archiveteam-warrior.webp
 keywords:
   - archiveteam-warrior
@@ -38,3 +38,4 @@ sources:
   - https://wiki.archiveteam.org/index.php/ArchiveTeam_Warrior
 type: application
 version: 8.13.17
+

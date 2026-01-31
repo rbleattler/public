@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: TV
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A comprehensive IPTV management platform for organizing and streaming public broadcast content through Plex DVR, Emby, and Jellyfin Live TV
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/streammaster
+home: https://trueforge.org/truetech/truecharts/charts/stable/streammaster
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/streammaster.webp
 keywords:
   - streammaster
@@ -40,3 +40,4 @@ sources:
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/streammaster
 type: application
 version: 2.13.15
+

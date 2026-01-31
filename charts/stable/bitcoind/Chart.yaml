@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: Tools-Utilities
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -21,7 +21,7 @@ dependencies:
 deprecated: false
 description: |
   Support the Bitcoin network by hosting your own node! This template provides a full Bitcoin Core node, built in a verifiably trustless way.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/bitcoind
+home: https://trueforge.org/truetech/truecharts/charts/stable/bitcoind
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/bitcoind.webp
 keywords:
   - bitcoind
@@ -40,3 +40,4 @@ sources:
   - https://hub.docker.com/r/ofawx/bitcoind
 type: application
 version: 8.13.15
+

@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: media
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Mylar is a automated Comic Book downloader
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/mylar
+home: https://trueforge.org/truetech/truecharts/charts/stable/mylar
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/mylar.webp
 keywords:
   - mylar
@@ -37,3 +37,4 @@ sources:
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mylar
 type: application
 version: 16.13.21
+

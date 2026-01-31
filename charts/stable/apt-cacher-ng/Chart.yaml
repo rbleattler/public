@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: Network-Proxy
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Apt-Cacher NG is a caching proxy, specialized for package files from Linux distributors, primarily for Debian (and Debian based) distributions but not limited to those.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/apt-cacher-ng
+home: https://trueforge.org/truetech/truecharts/charts/stable/apt-cacher-ng
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/apt-cacher-ng.webp
 keywords:
   - apt-cacher-ng
@@ -39,3 +39,4 @@ sources:
   - https://www.unix-ag.uni-kl.de/~bloch/acng/
 type: application
 version: 11.13.15
+

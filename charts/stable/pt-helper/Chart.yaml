@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: Tools-Utilities
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A tool that can automatically download free seeds and delete them after the free time expires.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/pt-helper
+home: https://trueforge.org/truetech/truecharts/charts/stable/pt-helper
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/pt-helper.webp
 keywords:
   - pt-helper
@@ -36,3 +36,4 @@ sources:
   - https://hub.docker.com/r/crazyq/pt_helper
 type: application
 version: 8.13.15
+

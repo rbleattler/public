@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: Cloud
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Allows the installation of Nightscout, a remote CGM monitoring system. It allows the upload and display of blood glucous values and can be configuered to issue warnings etc. This is mainly useful to diabetics.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/nightscout
+home: https://trueforge.org/truetech/truecharts/charts/stable/nightscout
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/nightscout.webp
 keywords:
   - nightscout
@@ -38,3 +38,4 @@ sources:
   - https://registry.hub.docker.com/r/nightscout/cgm-remote-monitor-travis
 type: application
 version: 8.13.15
+

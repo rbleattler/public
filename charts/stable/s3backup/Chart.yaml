@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: Backup
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A simple way to backup important files to Amazon S3 and Glacier.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/s3backup
+home: https://trueforge.org/truetech/truecharts/charts/stable/s3backup
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/s3backup.webp
 keywords:
   - s3backup
@@ -38,3 +38,4 @@ sources:
   - https://registry.hub.docker.com/r/joch/s3backup/
 type: application
 version: 8.13.15
+

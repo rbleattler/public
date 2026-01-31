@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: media
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Server for Ferdi that you can re-use to run your own
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/ferdi-server
+home: https://trueforge.org/truetech/truecharts/charts/stable/ferdi-server
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/ferdi-server.webp
 keywords:
   - ferdi
@@ -36,3 +36,4 @@ sources:
   - https://hub.docker.com/r/getferdi/ferdi-server
 type: application
 version: 14.13.15
+

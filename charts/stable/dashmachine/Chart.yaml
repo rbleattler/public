@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: Productivity
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: 'Another web application bookmark dashboard, with fun features.[br][br][b][u][span style=''color: #ff9900;'']Default user/password[/span][/u][/b][br]User: [B][u]admin[/B][/u][br]Password: [B][u]admin[/B][/u][/b]'
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/dashmachine
+home: https://trueforge.org/truetech/truecharts/charts/stable/dashmachine
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/dashmachine.webp
 keywords:
   - dashmachine
@@ -37,3 +37,4 @@ sources:
   - https://hub.docker.com/r/rmountjoy/dashmachine
 type: application
 version: 8.13.15
+

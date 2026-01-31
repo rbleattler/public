@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: Tools-Utilities
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: 'This simple Chart will update a namecheap dynamic dns domain. You must set an ''A + Dynamic DNS Record'' for the host and enable Dynamic DNS in the manage page for your domain. '
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/namecheap-ddns
+home: https://trueforge.org/truetech/truecharts/charts/stable/namecheap-ddns
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/namecheap-ddns.webp
 keywords:
   - namecheap-ddns
@@ -39,3 +39,4 @@ sources:
   - https://hub.docker.com/r/edchamberlain/namecheap_ddns
 type: application
 version: 8.13.15
+

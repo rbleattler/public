@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: Backup
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: 'Rest Server is a high performance HTTP server that implements restic''s REST backend API. It provides secure and efficient way to backup data remotely, using restic backup client via the rest: URL.'
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/restic-rest-server
+home: https://trueforge.org/truetech/truecharts/charts/stable/restic-rest-server
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/restic-rest-server.webp
 keywords:
   - restic-rest-server
@@ -37,3 +37,4 @@ sources:
   - https://hub.docker.com/r/restic/rest-server
 type: application
 version: 8.13.15
+

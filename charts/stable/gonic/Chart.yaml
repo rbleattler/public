@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: media
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Music streaming server / subsonic server API implementation
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/gonic
+home: https://trueforge.org/truetech/truecharts/charts/stable/gonic
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/gonic.webp
 keywords:
   - music
@@ -37,3 +37,4 @@ sources:
   - https://hub.docker.com/r/sentriz/gonic
 type: application
 version: 16.17.3
+

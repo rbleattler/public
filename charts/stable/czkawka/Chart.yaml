@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: duplicates
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Czkawka is a simple, fast and free app to remove unnecessary files from your computer.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/czkawka
+home: https://trueforge.org/truetech/truecharts/charts/stable/czkawka
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/czkawka.webp
 keywords:
   - duplicates
@@ -39,3 +39,4 @@ sources:
   - https://hub.docker.com/r/jlesage/czkawka
 type: application
 version: 14.0.10
+

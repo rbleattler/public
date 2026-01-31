@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: networking
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -27,7 +27,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Managing Nginx proxy hosts with a simple, powerful interface.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/nginx-proxy-manager
+home: https://trueforge.org/truetech/truecharts/charts/stable/nginx-proxy-manager
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/nginx-proxy-manager.webp
 keywords:
   - nginx-proxy-manager
@@ -46,3 +46,4 @@ sources:
   - https://nginxproxymanager.com/
 type: application
 version: 13.19.26
+

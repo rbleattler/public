@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: MediaApp-Video
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Watches for .ts files made by Live TV recordings, convert them to a friendly format, extract .srt file, add chapters with comchap or remove them with comcut. Tested with Emby recordings.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/post-recording
+home: https://trueforge.org/truetech/truecharts/charts/stable/post-recording
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/post-recording.webp
 keywords:
   - post-recording
@@ -37,3 +37,4 @@ sources:
   - https://hub.docker.com/r/chacawaca/post-recording
 type: application
 version: 8.13.15
+

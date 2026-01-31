@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: media
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Resilio Sync is a fast, reliable, and simple file sync and share solution, powered by P2P technology
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/resilio-sync
+home: https://trueforge.org/truetech/truecharts/charts/stable/resilio-sync
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/resilio-sync.webp
 keywords:
   - resilio
@@ -39,3 +39,4 @@ sources:
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/resilio-sync
 type: application
 version: 18.14.17
+

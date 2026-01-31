@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: network
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -24,7 +24,7 @@ description: |
   this chart is meant for cases where it is not.
   Also deploys the Snapshot Validation Webhook and configures your cluster to validate every `VolumeSnapshot` and
   `VolumeSnapshotContent` resource by sending it to the webhook.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/snapshot-controller
+home: https://trueforge.org/truetech/truecharts/charts/stable/snapshot-controller
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/snapshot-controller.webp
 keywords:
   - storage
@@ -43,3 +43,4 @@ sources:
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/snapshot-controller
 type: application
 version: 4.14.15
+

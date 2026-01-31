@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: network
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: ZeroTier is a smart programmable Ethernet switch for planet Earth
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/zerotier
+home: https://trueforge.org/truetech/truecharts/charts/stable/zerotier
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/zerotier.webp
 keywords:
   - zerotier
@@ -36,3 +36,4 @@ sources:
   - https://hub.docker.com/r/zerotier/zerotier
 type: application
 version: 12.13.15
+

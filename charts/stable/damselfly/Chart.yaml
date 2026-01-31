@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: MediaApp-Photos
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Damselfly is a server-based Digital Asset Management system.  The goal of Damselfly is to index an extremely large collection of images, and allow easy search and retrieval of those images, using metadata such as the IPTC keyword tags, as well as the folder and file names.  See https://damselfly.info for more details.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/damselfly
+home: https://trueforge.org/truetech/truecharts/charts/stable/damselfly
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/damselfly.webp
 keywords:
   - damselfly
@@ -37,3 +37,4 @@ sources:
   - https://hub.docker.com/r/webreaper/damselfly
 type: application
 version: 8.13.16
+

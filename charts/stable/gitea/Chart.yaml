@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: GIT
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -27,7 +27,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Self hosted GIT repositories
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/gitea
+home: https://trueforge.org/truetech/truecharts/charts/stable/gitea
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/gitea.webp
 keywords:
   - git
@@ -49,3 +49,4 @@ sources:
   - https://hub.docker.com/r/gitea/gitea
 type: application
 version: 22.27.29
+

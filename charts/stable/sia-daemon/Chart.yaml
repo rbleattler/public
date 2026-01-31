@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: Cloud
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Sia is a decentralized cloud storage platform that radically alters the landscape of cloud storage. By leveraging smart contracts, client-side encryption, and sophisticated redundancy (via Reed-Solomon codes), Sia allows users to safely store their data with hosts that they do not know or trust. The result is a cloud storage marketplace where hosts compete to offer the best service at the lowest price. And since there is no barrier to entry for hosts, anyone with spare storage capacity can join the network and start making money.
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/sia-daemon
+home: https://trueforge.org/truetech/truecharts/charts/stable/sia-daemon
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/sia-daemon.webp
 keywords:
   - sia-daemon
@@ -39,3 +39,4 @@ sources:
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/sia-daemon
 type: application
 version: 8.13.15
+

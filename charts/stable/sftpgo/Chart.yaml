@@ -3,8 +3,8 @@ annotations:
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
   trueforge.org/category: Network-FTP
-  trueforge.org/max_helm_version: "3.17"
-  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/max_helm_version: "3.20"
+  trueforge.org/max_kubernetes_version: 1.35.0
   trueforge.org/min_helm_version: "3.14"
   trueforge.org/min_kubernetes_version: 1.24.0
   trueforge.org/train: stable
@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: 'Fully featured and highly configurable SFTP server with optional HTTP/S, FTP, FTPS and WebDAV support. Several storage backends are supported: local filesystem, encrypted local filesystem, S3 (compatible) Object Storage, Google Cloud Storage, Azure Blob Storage, SFTP.'
-home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/sftpgo
+home: https://trueforge.org/truetech/truecharts/charts/stable/sftpgo
 icon: https://trueforge.org/img/hotlink-ok/chart-icons/sftpgo.webp
 keywords:
   - sftpgo
@@ -37,3 +37,4 @@ sources:
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/sftpgo
 type: application
 version: 9.14.15
+
