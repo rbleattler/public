@@ -36,3 +36,4 @@ sources:
   - https://hub.docker.com/r/rand256/valetudo-mapper
 type: application
 version: 8.13.15
+

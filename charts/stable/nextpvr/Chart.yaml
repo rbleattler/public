@@ -36,3 +36,4 @@ sources:
   - https://hub.docker.com/r/nextpvr/nextpvr_amd64
 type: application
 version: 12.13.15
+

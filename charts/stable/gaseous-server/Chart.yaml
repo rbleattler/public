@@ -43,3 +43,4 @@ sources:
   - https://hub.docker.com/r/gaseousgames/gaseousserver
 type: application
 version: 5.18.24
+

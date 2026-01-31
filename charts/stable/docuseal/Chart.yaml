@@ -36,3 +36,4 @@ sources:
   - https://hub.docker.com/r/docuseal/docuseal
 type: application
 version: 5.16.7
+

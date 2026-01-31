@@ -38,3 +38,4 @@ sources:
   - https://hub.docker.com/r/alpine/socat
 type: application
 version: 26.2.26
+

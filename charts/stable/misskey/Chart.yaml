@@ -47,3 +47,4 @@ sources:
   - https://hub.docker.com/r/misskey/misskey
 type: application
 version: 13.33.24
+

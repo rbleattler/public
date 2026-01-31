@@ -37,3 +37,4 @@ sources:
   - https://hub.docker.com/r/minio/minio
 type: application
 version: 16.13.15
+

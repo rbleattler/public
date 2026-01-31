@@ -45,3 +45,4 @@ sources:
   - https://hub.docker.com/r/weblate/weblate
 type: application
 version: 17.27.23
+

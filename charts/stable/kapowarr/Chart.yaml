@@ -36,3 +36,4 @@ sources:
   - https://hub.docker.com/r/mrcas/kapowarr
 type: application
 version: 3.13.15
+

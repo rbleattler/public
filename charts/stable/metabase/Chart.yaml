@@ -35,3 +35,4 @@ sources:
   - https://hub.docker.com/r/metabase/metabase
 type: application
 version: 6.16.13
+

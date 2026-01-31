@@ -37,3 +37,4 @@ sources:
   - https://registry.hub.docker.com/r/snoopy86/ffmpeg/
 type: application
 version: 8.13.15
+

@@ -36,3 +36,4 @@ sources:
   - https://www.influxdata.com/time-series-platform/chronograf/
 type: application
 version: 8.13.19
+

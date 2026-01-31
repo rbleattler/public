@@ -50,3 +50,4 @@ sources:
   - https://hub.docker.com/_/friendica
 type: application
 version: 19.23.32
+

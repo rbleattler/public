@@ -37,3 +37,4 @@ sources:
   - https://hub.docker.com/r/dispatcharr/dispatcharr
 type: application
 version: 1.1.1
+

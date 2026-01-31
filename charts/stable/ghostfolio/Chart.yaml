@@ -44,3 +44,4 @@ sources:
   - https://hub.docker.com/r/ghostfolio/ghostfolio
 type: application
 version: 8.74.0
+

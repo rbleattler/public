@@ -36,3 +36,4 @@ sources:
   - https://hub.docker.com/r/nroi/flexo
 type: application
 version: 2.13.15
+

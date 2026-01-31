@@ -34,3 +34,4 @@ sources:
   - https://hub.docker.com/r/ronivay/xen-orchestra
 type: application
 version: 11.25.0
+

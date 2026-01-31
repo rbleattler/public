@@ -48,3 +48,4 @@ sources:
   - https://hub.docker.com/r/gitea/gitea
 type: application
 version: 22.27.29
+

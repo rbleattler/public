@@ -36,3 +36,4 @@ sources:
   - https://hub.docker.com/r/2fauth/2fauth
 type: application
 version: 5.0.10
+

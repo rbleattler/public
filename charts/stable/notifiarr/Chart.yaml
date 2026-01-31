@@ -38,3 +38,4 @@ sources:
   - https://hub.docker.com/r/golift/notifiarr
 type: application
 version: 7.14.16
+

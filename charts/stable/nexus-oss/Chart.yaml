@@ -35,3 +35,4 @@ sources:
   - https://hub.docker.com/r/sonatype/nexus3
 type: application
 version: 8.20.10
+

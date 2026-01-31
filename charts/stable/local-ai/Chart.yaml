@@ -36,3 +36,4 @@ sources:
   - https://hub.docker.com/r/localai/localai
 type: application
 version: 16.48.11
+
