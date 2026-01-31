@@ -10,6 +10,12 @@ annotations:
   truecharts.org/min_helm_version: "3.14"
   truecharts.org/min_kubernetes_version: 1.24.0
   truecharts.org/train: stable
+  trueforge.org/category: unsorted
+  trueforge.org/max_helm_version: "3.17"
+  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/min_helm_version: "3.14"
+  trueforge.org/min_kubernetes_version: 1.24.0
+  trueforge.org/train: stable
 apiVersion: v2
 appVersion: 2.1.13
 dependencies:
@@ -22,15 +28,15 @@ dependencies:
     import-values: []
 deprecated: false
 description: The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
-home: https://truecharts.org/charts/stable/pinry
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/pinry.webp
+home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/pinry
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/pinry.webp
 keywords:
   - pinry
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: pinry
 sources:
   - https://github.com/pinry/pinry/

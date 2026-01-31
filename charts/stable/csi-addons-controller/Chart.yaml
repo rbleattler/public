@@ -11,6 +11,12 @@ annotations:
   truecharts.org/min_helm_version: "3.14"
   truecharts.org/min_kubernetes_version: 1.24.0
   truecharts.org/train: stable
+  trueforge.org/category: unsorted
+  trueforge.org/max_helm_version: "3.17"
+  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/min_helm_version: "3.14"
+  trueforge.org/min_kubernetes_version: 1.24.0
+  trueforge.org/train: stable
 apiVersion: v2
 appVersion: 0.13.0
 dependencies:
@@ -26,8 +32,8 @@ description: |
   Deploys a CSI-Addons controller implementation for Kubernetes. CSI-Addons may
   be bundled with the Kubernetes distribution, this chart is meant for cases
   where it is not.
-home: https://truecharts.org/charts/stable/csi-addons-controller
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/csi-addons-controller.webp
+home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/csi-addons-controller
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/csi-addons-controller.webp
 keywords:
   - storage
   - snapshot
@@ -35,8 +41,8 @@ keywords:
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: csi-addons-controller
 sources:
   - https://github.com/csi-addons/kubernetes-csi-addons

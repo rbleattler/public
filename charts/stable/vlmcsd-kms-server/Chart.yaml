@@ -10,6 +10,12 @@ annotations:
   truecharts.org/min_helm_version: "3.14"
   truecharts.org/min_kubernetes_version: 1.24.0
   truecharts.org/train: stable
+  trueforge.org/category: unsorted
+  trueforge.org/max_helm_version: "3.17"
+  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/min_helm_version: "3.14"
+  trueforge.org/min_kubernetes_version: 1.24.0
+  trueforge.org/train: stable
 apiVersion: v2
 appVersion: latest
 dependencies:
@@ -22,8 +28,8 @@ dependencies:
     import-values: []
 deprecated: false
 description: vlmcsd is a replacement for Microsoft's KMS server.
-home: https://truecharts.org/charts/stable/vlmcsd-kms-server
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/vlmcsd-kms-server.webp
+home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/vlmcsd-kms-server
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/vlmcsd-kms-server.webp
 keywords:
   - vlmcsd-kms-server
   - Cloud
@@ -32,8 +38,8 @@ keywords:
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: vlmcsd-kms-server
 sources:
   - https://github.com/mikolatero/docker-vlmcsd

@@ -10,6 +10,12 @@ annotations:
   truecharts.org/min_helm_version: "3.14"
   truecharts.org/min_kubernetes_version: 1.24.0
   truecharts.org/train: stable
+  trueforge.org/category: unsorted
+  trueforge.org/max_helm_version: "3.17"
+  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/min_helm_version: "3.14"
+  trueforge.org/min_kubernetes_version: 1.24.0
+  trueforge.org/train: stable
 apiVersion: v2
 appVersion: latest
 dependencies:
@@ -22,8 +28,8 @@ dependencies:
     import-values: []
 deprecated: false
 description: Kerio Connect is Mail/Groupware like Microsoft Exchange, but running on Linux. More Informations under www.kerio.com/connect
-home: https://truecharts.org/charts/stable/kerio-connect
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/kerio-connect.webp
+home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/kerio-connect
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/kerio-connect.webp
 keywords:
   - kerio-connect
   - Network-Web
@@ -31,8 +37,8 @@ keywords:
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: kerio-connect
 sources:
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kerio-connect

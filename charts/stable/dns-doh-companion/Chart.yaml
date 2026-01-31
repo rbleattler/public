@@ -10,6 +10,12 @@ annotations:
   truecharts.org/min_helm_version: "3.14"
   truecharts.org/min_kubernetes_version: 1.24.0
   truecharts.org/train: stable
+  trueforge.org/category: unsorted
+  trueforge.org/max_helm_version: "3.17"
+  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/min_helm_version: "3.14"
+  trueforge.org/min_kubernetes_version: 1.24.0
+  trueforge.org/train: stable
 apiVersion: v2
 appVersion: latest
 dependencies:
@@ -22,16 +28,16 @@ dependencies:
     import-values: []
 deprecated: false
 description: A very simple DNS server to connect to DNS-over-HTTPS service. This is similar to my other Pihole-with-DoH Chart, without Pihole.
-home: https://truecharts.org/charts/stable/dns-doh-companion
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/dns-doh-companion.webp
+home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/dns-doh-companion
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/dns-doh-companion.webp
 keywords:
   - dns-doh-companion
   - Network-DNS
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: dns-doh-companion
 sources:
   - https://developers.cloudflare.com/1.1.1.1/dns-over-https/cloudflared-proxy/

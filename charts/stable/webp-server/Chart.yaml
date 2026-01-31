@@ -10,6 +10,12 @@ annotations:
   truecharts.org/min_helm_version: "3.14"
   truecharts.org/min_kubernetes_version: 1.24.0
   truecharts.org/train: stable
+  trueforge.org/category: unsorted
+  trueforge.org/max_helm_version: "3.17"
+  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/min_helm_version: "3.14"
+  trueforge.org/min_kubernetes_version: 1.24.0
+  trueforge.org/train: stable
 apiVersion: v2
 appVersion: latest
 dependencies:
@@ -22,8 +28,8 @@ dependencies:
     import-values: []
 deprecated: false
 description: This is a Server based on Golang, which allows you to serve WebP images on the fly. It will convert jpg,jpeg,png files by default, this can be customized by editing the config.json.
-home: https://truecharts.org/charts/stable/webp-server
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/webp-server.webp
+home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/webp-server
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/webp-server.webp
 keywords:
   - webp-server
   - Cloud
@@ -35,8 +41,8 @@ keywords:
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: webp-server
 sources:
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/webp-server

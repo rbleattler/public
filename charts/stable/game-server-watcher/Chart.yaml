@@ -10,6 +10,12 @@ annotations:
   truecharts.org/min_helm_version: "3.14"
   truecharts.org/min_kubernetes_version: 1.24.0
   truecharts.org/train: stable
+  trueforge.org/category: unsorted
+  trueforge.org/max_helm_version: "3.17"
+  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/min_helm_version: "3.14"
+  trueforge.org/min_kubernetes_version: 1.24.0
+  trueforge.org/train: stable
 apiVersion: v2
 appVersion: 3.1.25
 dependencies:
@@ -22,8 +28,8 @@ dependencies:
     import-values: []
 deprecated: false
 description: A simple discord/telegram/slack bot to monitor your game servers and players in style.
-home: https://truecharts.org/charts/stable/game-server-watcher
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/game-server-watcher.webp
+home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/game-server-watcher
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/game-server-watcher.webp
 keywords:
   - game-server-watcher
   - monitoring
@@ -31,8 +37,8 @@ keywords:
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: game-server-watcher
 sources:
   - https://ghcr.io/a-sync/game-server-watcher

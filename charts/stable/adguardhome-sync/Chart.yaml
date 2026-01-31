@@ -10,6 +10,12 @@ annotations:
   truecharts.org/min_helm_version: "3.14"
   truecharts.org/min_kubernetes_version: 1.24.0
   truecharts.org/train: stable
+  trueforge.org/category: unsorted
+  trueforge.org/max_helm_version: "3.17"
+  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/min_helm_version: "3.14"
+  trueforge.org/min_kubernetes_version: 1.24.0
+  trueforge.org/train: stable
 apiVersion: v2
 appVersion: 0.8.2
 dependencies:
@@ -22,16 +28,16 @@ dependencies:
     import-values: []
 deprecated: false
 description: Synchronize AdGuardHome config to replica instances.
-home: https://truecharts.org/charts/stable/adguardhome-sync
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/adguardhome-sync.webp
+home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/adguardhome-sync
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/adguardhome-sync.webp
 keywords:
   - adguardhome-sync
   - Other
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: adguardhome-sync
 sources:
   - https://github.com/bakito/adguardhome-sync/

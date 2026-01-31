@@ -11,6 +11,12 @@ annotations:
   truecharts.org/min_helm_version: "3.14"
   truecharts.org/min_kubernetes_version: 1.24.0
   truecharts.org/train: stable
+  trueforge.org/category: unsorted
+  trueforge.org/max_helm_version: "3.17"
+  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/min_helm_version: "3.14"
+  trueforge.org/min_kubernetes_version: 1.24.0
+  trueforge.org/train: stable
 apiVersion: v2
 appVersion: 8.4.0
 dependencies:
@@ -27,8 +33,8 @@ description: |
   this chart is meant for cases where it is not.
   Also deploys the Snapshot Validation Webhook and configures your cluster to validate every `VolumeSnapshot` and
   `VolumeSnapshotContent` resource by sending it to the webhook.
-home: https://truecharts.org/charts/stable/snapshot-controller
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/snapshot-controller.webp
+home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/snapshot-controller
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/snapshot-controller.webp
 keywords:
   - storage
   - snapshot
@@ -36,8 +42,8 @@ keywords:
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: snapshot-controller
 sources:
   - https://github.com/kubernetes-csi/external-snapshotter/

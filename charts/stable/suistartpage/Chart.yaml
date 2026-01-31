@@ -10,6 +10,12 @@ annotations:
   truecharts.org/min_helm_version: "3.14"
   truecharts.org/min_kubernetes_version: 1.24.0
   truecharts.org/train: stable
+  trueforge.org/category: unsorted
+  trueforge.org/max_helm_version: "3.17"
+  trueforge.org/max_kubernetes_version: 1.32.0
+  trueforge.org/min_helm_version: "3.14"
+  trueforge.org/min_kubernetes_version: 1.24.0
+  trueforge.org/train: stable
 apiVersion: v2
 appVersion: latest
 dependencies:
@@ -22,8 +28,8 @@ dependencies:
     import-values: []
 deprecated: false
 description: SUI Startpage is a simple and clean server start page or homepage that you can quickly and easily setup to access your server resources and quick booksmarks and also lets you search on various provider sites via a search bar at the top as well.
-home: https://truecharts.org/charts/stable/suistartpage
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/suistartpage.webp
+home: https://trueforge.org/truetech/truecharts/truetech/truecharts/charts/stable/suistartpage
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/suistartpage.webp
 keywords:
   - suistartpage
   - Tools-Utilities
@@ -31,8 +37,8 @@ keywords:
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: suistartpage
 sources:
   - https://github.com/CorneliousJD/SUI-Startpage
