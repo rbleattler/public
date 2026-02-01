@@ -164,7 +164,8 @@ jobs:
           - persistence-values.yaml
           - extra-containers-values.yaml
           - rbac-values.yaml
-          - ingress-values.yaml
+          # Disable ingress tests for, due to certs not being greenlit during install test
+          # - ingress-values.yaml
           - networkPolicy-values.yaml
           # TODO: broken
           # - codeserver-values.yaml
