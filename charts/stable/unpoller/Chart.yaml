@@ -25,8 +25,8 @@ dependencies:
     import-values: []
 deprecated: false
 description: Collect your UniFi controller data and report it to an InfluxDB instance, or export it for Prometheus collection.
-home: https://truecharts.org/charts/stable/unpoller
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/unpoller.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/unpoller
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/unpoller.webp
 keywords:
   - unifi
   - unifi-poller
@@ -34,8 +34,8 @@ keywords:
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: unpoller
 sources:
   - https://ghcr.io/unpoller/unpoller
