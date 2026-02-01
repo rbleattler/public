@@ -89,11 +89,11 @@ workload:
         wait-server:
           enabled: true
           type: init
-          imageSelector: alpineImage
+          imageSelector: ubuntuImage
           resources:
             excludeExtra: true
           command:
-            - /bin/ash
+            - /bin/bash
             - -c
             - |
               {{- tpl .Values.waitServerScript $ -}}
@@ -136,11 +136,11 @@ workload:
         wait-server:
           enabled: true
           type: init
-          imageSelector: alpineImage
+          imageSelector: ubuntuImage
           resources:
             excludeExtra: true
           command:
-            - /bin/ash
+            - /bin/bash
             - -c
             - |-
               {{ tpl .Values.waitServerScript $ | trim }}
