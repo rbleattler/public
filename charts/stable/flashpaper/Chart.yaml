@@ -25,8 +25,8 @@ dependencies:
     import-values: []
 deprecated: false
 description: One-time encrypted password/secret sharing
-home: https://truecharts.org/charts/stable/flashpaper
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/flashpaper.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/flashpaper
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/flashpaper.webp
 keywords:
   - flashpaper
   - Cloud
@@ -34,11 +34,11 @@ keywords:
   - Security
   - Tools-Utilities
   - Network-Web
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: flashpaper
 sources:
   - https://ghcr.io/andrewpaglusch/flashpaper

@@ -25,17 +25,17 @@ dependencies:
     import-values: []
 deprecated: false
 description: This Chart is a full Debian Bullseye Xfce4 Desktop environment with a noVNC webGUI and all the basic tools pre-installed.
-home: https://truecharts.org/charts/stable/debian-bullseye
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/debian-bullseye.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/debian-bullseye
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/debian-bullseye.webp
 keywords:
   - debian-bullseye
   - Productivity
   - Tools-System
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: debian-bullseye
 sources:
   - https://ghcr.io/ich777/debian-bullseye

@@ -25,16 +25,16 @@ dependencies:
     import-values: []
 deprecated: false
 description: A simple, high-reliability, distributed software configuration management system
-home: https://truecharts.org/charts/stable/fossil
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/fossil.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/fossil
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/fossil.webp
 keywords:
   - fossil
   - scm
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: fossil
 sources:
   - https://fossil-scm.org/

@@ -25,18 +25,18 @@ dependencies:
     import-values: []
 deprecated: false
 description: Lightweight ldap server for authentication and user management
-home: https://truecharts.org/charts/stable/lldap
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/lldap.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/lldap
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/lldap.webp
 keywords:
   - lldap
   - ldap
   - authentication
   - auth
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: lldap
 sources:
   - https://github.com/nitnelave/lldap

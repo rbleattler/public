@@ -32,8 +32,8 @@ dependencies:
     import-values: []
 deprecated: false
 description: Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes.
-home: https://truecharts.org/charts/stable/etesync
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/etesync.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/etesync
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/etesync.webp
 keywords:
   - etesync
   - sync
@@ -41,11 +41,11 @@ keywords:
   - calendars
   - tasks
   - notes
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: etesync
 sources:
   - https://github.com/etesync

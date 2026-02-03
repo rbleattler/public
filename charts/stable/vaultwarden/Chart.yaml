@@ -25,8 +25,8 @@ dependencies:
     import-values: []
 deprecated: false
 description: Unofficial Bitwarden compatible server written in Rust
-home: https://truecharts.org/charts/stable/vaultwarden
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/vaultwarden
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/vaultwarden.webp
 keywords:
   - bitwarden
   - bitwardenrs
@@ -34,11 +34,11 @@ keywords:
   - vaultwarden
   - password
   - rust
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: vaultwarden
 sources:
   - https://ghcr.io/dani-garcia/vaultwarden

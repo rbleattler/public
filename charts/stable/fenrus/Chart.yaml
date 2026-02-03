@@ -25,16 +25,16 @@ dependencies:
     import-values: []
 deprecated: false
 description: "Fenrus is a home page / personal dashboard with smart apps.   \n"
-home: https://truecharts.org/charts/stable/fenrus
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/fenrus.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/fenrus
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/fenrus.webp
 keywords:
   - fenrus
   - Productivity
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: fenrus
 sources:
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/fenrus

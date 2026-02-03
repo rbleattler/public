@@ -25,18 +25,18 @@ dependencies:
     import-values: []
 deprecated: false
 description: A real-time collaborative editor scalable to thousands of simultaneous real time users.
-home: https://truecharts.org/charts/stable/etherpad
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/etherpad.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/etherpad
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/etherpad.webp
 keywords:
   - etherpad
   - editor
   - notepad
   - pad
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: etherpad
 sources:
   - https://etherpad.org/

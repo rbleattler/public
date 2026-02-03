@@ -25,16 +25,16 @@ dependencies:
     import-values: []
 deprecated: false
 description: SteamCMD Terraria and the TShock MOD.
-home: https://truecharts.org/charts/stable/terraria-tshock
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/terraria-tshock.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/terraria-tshock
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/terraria-tshock.webp
 keywords:
   - terraria-tshock
   - GameServers
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: terraria-tshock
 sources:
   - https://ghcr.io/ich777/terrariaserver

@@ -25,15 +25,15 @@ dependencies:
     import-values: []
 deprecated: false
 description: Htpcmanager is a front end for many htpc related applications.
-home: https://truecharts.org/charts/stable/htpcmanager
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/htpcmanager.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/htpcmanager
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/htpcmanager.webp
 keywords:
   - htpcmanager
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: htpcmanager
 sources:
   - https://ghcr.io/linuxserver/htpcmanager

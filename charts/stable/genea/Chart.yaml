@@ -25,16 +25,16 @@ dependencies:
     import-values: []
 deprecated: false
 description: Genea allows visually building and editing a family tree online. It consumes and saves genealogy data in the GEDCOM format without any server side components.
-home: https://truecharts.org/charts/stable/genea
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/genea.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/genea
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/genea.webp
 keywords:
   - genea
   - Other
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: genea
 sources:
   - https://github.com/genea-app/genea-app

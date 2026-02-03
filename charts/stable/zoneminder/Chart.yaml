@@ -25,19 +25,19 @@ dependencies:
     import-values: []
 deprecated: false
 description: Zoneminder is the top Linux video camera security and surveillance solution.
-home: https://truecharts.org/charts/stable/zoneminder
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/zoneminder.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/zoneminder
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/zoneminder.webp
 keywords:
   - zoneminder
   - home
   - automation
   - cctv
   - utilities
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: zoneminder
 sources:
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/zoneminder

@@ -25,18 +25,18 @@ dependencies:
     import-values: []
 deprecated: false
 description: Provides management of TV shows and/or Anime, it detects new episodes, links downloader apps, and more
-home: https://truecharts.org/charts/stable/sickgear
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/sickgear.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/sickgear
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/sickgear.webp
 keywords:
   - sickgear
   - manager
   - tv
   - shows
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: sickgear
 sources:
   - https://github.com/SickGear/SickGear

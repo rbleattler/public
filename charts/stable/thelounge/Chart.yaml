@@ -25,19 +25,19 @@ dependencies:
     import-values: []
 deprecated: false
 description: The Lounge, modern web IRC client designed for self-hosting
-home: https://truecharts.org/charts/stable/thelounge
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/thelounge.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/thelounge
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/thelounge.webp
 keywords:
   - thelounge
   - IRC
   - The Lounge
   - docker
   - thelounge-docker
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: thelounge
 sources:
   - https://github.com/thelounge/thelounge

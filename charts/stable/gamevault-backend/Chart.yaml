@@ -25,16 +25,16 @@ dependencies:
     import-values: []
 deprecated: false
 description: the self-hosted gaming platform for alternatively obtained games.
-home: https://truecharts.org/charts/stable/gamevault-backend
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/gamevault-backend.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/gamevault-backend
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/gamevault-backend.webp
 keywords:
   - gamevault-backend
   - games
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: gamevault-backend
 sources:
   - https://github.com/Phalcode/gamevault-backend

@@ -25,16 +25,16 @@ dependencies:
     import-values: []
 deprecated: false
 description: 'Fully featured and highly configurable SFTP server with optional HTTP/S, FTP, FTPS and WebDAV support. Several storage backends are supported: local filesystem, encrypted local filesystem, S3 (compatible) Object Storage, Google Cloud Storage, Azure Blob Storage, SFTP.'
-home: https://truecharts.org/charts/stable/sftpgo
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/sftpgo.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/sftpgo
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/sftpgo.webp
 keywords:
   - sftpgo
   - Network-FTP
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: sftpgo
 sources:
   - https://ghcr.io/drakkan/sftpgo

@@ -25,19 +25,19 @@ dependencies:
     import-values: []
 deprecated: false
 description: A simple go project that allows you to expose prometheus metrics "safely" to a public source.
-home: https://truecharts.org/charts/stable/kromgo
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/kromgo.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/kromgo
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/kromgo.webp
 keywords:
   - kromgo
   - metrics
   - prometheus
   - grafana
   - shields.io
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: kromgo
 sources:
   - https://ghcr.io/kashalls/kromgo

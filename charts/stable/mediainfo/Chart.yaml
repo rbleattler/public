@@ -25,16 +25,16 @@ dependencies:
     import-values: []
 deprecated: false
 description: MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
-home: https://truecharts.org/charts/stable/mediainfo
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/mediainfo.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/mediainfo
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/mediainfo.webp
 keywords:
   - info
   - media
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: mediainfo
 sources:
   - https://github.com/jlesage/docker-mediainfo

@@ -25,19 +25,19 @@ dependencies:
     import-values: []
 deprecated: false
 description: This Chart will download and install Rapid Photo Downloader.
-home: https://truecharts.org/charts/stable/rapidphotodownloader
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/rapidphotodownloader.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/rapidphotodownloader
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/rapidphotodownloader.webp
 keywords:
   - rapidphotodownloader
   - MediaApp-Photos
   - Productivity
   - Tools-Utilities
   - Backup
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: rapidphotodownloader
 sources:
   - https://ghcr.io/ich777/rapidphotodownloader
