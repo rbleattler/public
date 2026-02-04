@@ -25,16 +25,16 @@ dependencies:
     import-values: []
 deprecated: false
 description: A monolithic lancache service capable of caching all CDNs in a single instance.
-home: https://truecharts.org/charts/stable/lancache-monolithic
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/lancache-monolithic.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/lancache-monolithic
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/lancache-monolithic.webp
 keywords:
   - monolithic
   - lancache
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: lancache-monolithic
 sources:
   - https://ghcr.io/ich777/lancache-prefill
