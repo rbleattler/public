@@ -32,8 +32,8 @@ dependencies:
     import-values: []
 deprecated: false
 description: A simple, self-hosted, easy-to-use platform for organising and storing information.
-home: https://truecharts.org/charts/stable/bookstack
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/bookstack.webp
+home: https://trueforge.org/truetech/truecharts/charts/stable/bookstack
+icon: https://trueforge.org/img/hotlink-ok/chart-icons/bookstack.webp
 keywords:
   - bookstack
   - book
@@ -41,11 +41,11 @@ keywords:
   - organizer
   - server
   - hosted
-kubeVersion: '>=1.24.0-0'
+kubeVersion: '>=1.27.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@truecharts.org
-    url: https://truecharts.org
+    email: info@trueforge.org
+    url: https://trueforge.org
 name: bookstack
 sources:
   - https://ghcr.io/linuxserver/bookstack
