@@ -39,3 +39,4 @@ sources:
   - https://hub.docker.com/r/teslamate/teslamate
 type: application
 version: 6.0.2
+

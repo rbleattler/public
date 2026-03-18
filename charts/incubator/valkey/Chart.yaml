@@ -37,3 +37,4 @@ sources:
   - https://hub.docker.com/r/bitnamisecure/valkey
 type: application
 version: 0.4.3
+

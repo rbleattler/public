@@ -310,7 +310,7 @@ rbac:
         verbs:
           - list
           - watch
-      # Service    
+      # Service
       - apiGroups:
           - ""
         resources:
@@ -341,7 +341,7 @@ rbac:
         resources:
           - dnsendpoints/status
         verbs:
-          - "*"      
+          - "*"
 
 k8sgateway:
   enabled: true
