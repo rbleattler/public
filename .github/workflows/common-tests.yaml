@@ -144,9 +144,9 @@ jobs:
       matrix:
         # We test the latest k3s version and the lowest supported
         k3s-version:
-          - v1.28
+          - v1.33
+          - v1.34
           - v1.35
-          - latest
         # We test the latest helm version and the lowest supported
         helm-version:
           - v3.14.0
