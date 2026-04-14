@@ -2,7 +2,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: docker.io/sonatype/nexus3
-  tag: 3.90.3@sha256:a7a46e6493e9434b295f294241568b122778c9c3ea61e808e40f4944aab580e3
+  tag: 3.91.0@sha256:589f3ccbe28183862aa54c8bc99e8a22f09a396cc39d59d8de9601e97083989f
 persistence:
   data:
     enabled: true
