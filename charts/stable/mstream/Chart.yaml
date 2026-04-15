@@ -11,7 +11,7 @@ apiVersion: v2
 appVersion: 6.2.0
 dependencies:
   - name: common
-    version: 29.0.10
+    version: 29.0.15
     repository: oci://oci.trueforge.org/truecharts
     condition: ""
     alias: ""
