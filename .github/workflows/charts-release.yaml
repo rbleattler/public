@@ -129,8 +129,6 @@ jobs:
           forgetool charts genchangelog "$REPO_PATH" "$TEMPLATE_PATH" "$OUTPUT_DIR"
 
           # TODO: Test remove later
-          echo "temp content:"
-          ls ./temp/
           echo ""
           echo "rootcontent"
           ls ./
