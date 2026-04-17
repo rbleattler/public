@@ -63,7 +63,7 @@ jobs:
       - name: Install ./forgetool
         shell: bash
         run: |
-          VERSION="3.0.2"
+          VERSION="4.0.0-ALPHA21"
           FILENAME="forgetool_${VERSION}_linux_amd64.tar.gz"
           URL="https://github.com/trueforge-org/forgetool/releases/download/v${VERSION}/${FILENAME}"
 
