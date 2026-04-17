@@ -180,7 +180,7 @@ jobs:
         if: github.event_name == 'push'
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
         with:
-          repository: trueforge-org/website
+          repository: trueforge-org/websites
           path: website   # checkout into ./website
           ref: main       # branch to push to
           token: "${{ secrets.BOT_TOKEN }}"
@@ -191,22 +191,22 @@ jobs:
         run: |
           #!/bin/bash
           echo "Maing sure directories exist..."
-          mkdir -p website/public/img/hotlink-ok/chart-icons || echo "chart-icons path already exists, continuing..."
-          mkdir -p website/public/img/hotlink-ok/chart-icons-small || echo "chart-icons-small path already exists, continuing..."
-          mkdir -p website/src/assets || echo "assets path already exists, continuing..."
+          mkdir -p website/truecharts/public/img/hotlink-ok/chart-icons || echo "chart-icons path already exists, continuing..."
+          mkdir -p website/truecharts/public/img/hotlink-ok/chart-icons-small || echo "chart-icons-small path already exists, continuing..."
+          mkdir -p website/truecharts/src/assets || echo "assets path already exists, continuing..."
 
           ./temp/forgetool charts genchartlist ./charts
-          mv -f charts.json website/src/assets/charts.json
-          mv -f ./website/src/content/docs/truetech/truecharts/charts/description-list.mdx ./description-list.mdx
+          mv -f charts.json website/truecharts/src/assets/charts.json
+          mv -f ./website/truecharts/src/content/docs/truetech/truecharts/charts/description-list.mdx ./description-list.mdx
           echo "Copying changelogs to docs"
-          rm -rf ./website/src/content/docs/truetech/truecharts/charts/stable ./website/src/content/docs/truetech/truecharts/charts/incubator ./website/src/content/docs/truetech/truecharts/charts/library
-          mkdir -p ./website/src/content/docs/truetech/truecharts/charts/
-          mv -f ./description-list.mdx ./website/src/content/docs/truetech/truecharts/charts/description-list.mdx
+          rm -rf ./website/truecharts/src/content/docs/truetech/truecharts/charts/stable ./website/truecharts/src/content/docs/truetech/truecharts/charts/incubator ./website/truecharts/src/content/docs/truetech/truecharts/charts/library
+          mkdir -p ./website/truecharts/src/content/docs/truetech/truecharts/charts/
+          mv -f ./description-list.mdx ./website/truecharts/src/content/docs/truetech/truecharts/charts/description-list.mdx
           mkdir -p ./changelogs
 
           # Check if there are any directories in changelogs
           if [ -n "$(find ./changelogs -mindepth 1 -type d)" ]; then
-              cp -r ./changelogs/** ./website/src/content/docs/truetech/truecharts/charts/
+              cp -r ./changelogs/** ./website/truecharts/src/content/docs/truetech/truecharts/charts/
           else
               echo "No directories in ./changelogs. Skipping copy."
           fi
@@ -220,8 +220,8 @@ jobs:
             IFS='/' read -r -a chart_parts <<<"$item"
             ./.github/scripts/chart-docs.sh "${chart_parts[1]}/${chart_parts[2]}"
           done
-          rm -rf ./website/src/content/docs/truetech/truecharts-common
-          mv ./website/src/content/docs/truetech/truecharts/charts/library/common ./website/src/content/docs/truetech/truecharts-common
+          rm -rf ./website/truecharts/src/content/docs/truetech/truecharts-common
+          mv ./website/truecharts/src/content/docs/truetech/truecharts/charts/library/common ./website/truecharts/src/content/docs/truetech/truecharts-common
 
       - name: Prefetch contributor icons
         shell: bash
