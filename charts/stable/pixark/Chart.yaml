@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: This Chart will download and install SteamCMD. It will also install PIXARK and run it (a normal server startup of PIXARK can take a long time!).
-home: https://truecharts.org/truetech/truecharts/charts/stable/pixark
+home: https://truecharts.org/charts/stable/pixark
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/pixark.webp
 keywords:
   - pixark

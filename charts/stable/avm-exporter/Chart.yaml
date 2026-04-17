@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: AVM Exporter for Prometheus to monitor Fritz!Box devices
-home: https://truecharts.org/truetech/truecharts/charts/stable/avm-exporter
+home: https://truecharts.org/charts/stable/avm-exporter
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/avm-exporter.webp
 keywords:
   - avm-exporter

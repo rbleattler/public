@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: SheetAble is an easy to use music sheet organiser for all the music enthusiasts out there.
-home: https://truecharts.org/truetech/truecharts/charts/stable/sheetable
+home: https://truecharts.org/charts/stable/sheetable
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/sheetable.webp
 keywords:
   - sheetable

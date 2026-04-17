@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution.
-home: https://truecharts.org/truetech/truecharts/charts/stable/scrutiny
+home: https://truecharts.org/charts/stable/scrutiny
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.webp
 keywords:
   - scrutiny

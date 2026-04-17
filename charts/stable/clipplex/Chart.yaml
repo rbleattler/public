@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Clip your plex media to share.
-home: https://truecharts.org/truetech/truecharts/charts/stable/clipplex
+home: https://truecharts.org/charts/stable/clipplex
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/clipplex.webp
 keywords:
   - clipplex

@@ -27,7 +27,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: RSSHub can generate RSS feeds from pretty much everything
-home: https://truecharts.org/truetech/truecharts/charts/stable/rsshub
+home: https://truecharts.org/charts/stable/rsshub
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.webp
 keywords:
   - rsshub

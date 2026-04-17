@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: volsync is a storage backup and synchronisation tool.
-home: https://truecharts.org/truetech/truecharts/charts/stable/volsync
+home: https://truecharts.org/charts/stable/volsync
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/volsync.webp
 keywords:
   - volsync

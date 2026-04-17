@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Expose all events from an Amcrest device to an MQTT broker
-home: https://truecharts.org/truetech/truecharts/charts/stable/amcrest2mqtt
+home: https://truecharts.org/charts/stable/amcrest2mqtt
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/amcrest2mqtt.webp
 keywords:
   - amcrest2mqtt

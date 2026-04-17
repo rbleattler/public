@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Mylar is a automated Comic Book downloader
-home: https://truecharts.org/truetech/truecharts/charts/stable/mylar
+home: https://truecharts.org/charts/stable/mylar
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/mylar.webp
 keywords:
   - mylar

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Improved version of the OpenWebRX online SDR
-home: https://truecharts.org/truetech/truecharts/charts/stable/openwebrxplus
+home: https://truecharts.org/charts/stable/openwebrxplus
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/openwebrxplus.webp
 keywords:
   - radio

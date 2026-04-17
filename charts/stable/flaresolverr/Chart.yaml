@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: FlareSolverr is a proxy server to bypass Cloudflare protection
-home: https://truecharts.org/truetech/truecharts/charts/stable/flaresolverr
+home: https://truecharts.org/charts/stable/flaresolverr
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.webp
 keywords:
   - flaresolverr

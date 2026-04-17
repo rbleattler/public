@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Linkwarden is a self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.
-home: https://truecharts.org/truetech/truecharts/charts/stable/linkwarden
+home: https://truecharts.org/charts/stable/linkwarden
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/linkwarden.webp
 keywords:
   - linkwarden

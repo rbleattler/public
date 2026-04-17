@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Free and easy binary newsreader
-home: https://truecharts.org/truetech/truecharts/charts/stable/sabnzbd
+home: https://truecharts.org/charts/stable/sabnzbd
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/sabnzbd.webp
 keywords:
   - sabnzbd

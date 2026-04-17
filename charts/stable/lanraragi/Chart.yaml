@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Open source server for archival of comics/manga.
-home: https://truecharts.org/truetech/truecharts/charts/stable/lanraragi
+home: https://truecharts.org/charts/stable/lanraragi
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/lanraragi.webp
 keywords:
   - lanraragi

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Magical shell history.
-home: https://truecharts.org/truetech/truecharts/charts/stable/atuin
+home: https://truecharts.org/charts/stable/atuin
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/atuin.webp
 keywords:
   - atuin

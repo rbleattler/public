@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: seerr is a fork of Overseerr with support for Jellyfin and Emby. It can be used to manage requests for your media library.
-home: https://truecharts.org/truetech/truecharts/charts/stable/seerr
+home: https://truecharts.org/charts/stable/seerr
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/seerr.webp
 keywords:
   - seerr

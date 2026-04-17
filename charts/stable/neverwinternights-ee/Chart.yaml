@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: 'This Chart will download and install Neverwinter Nights: Enhanced Edition and run it (by default this Chart has a MariaDB and Redis Server integrated).'
-home: https://truecharts.org/truetech/truecharts/charts/stable/neverwinternights-ee
+home: https://truecharts.org/charts/stable/neverwinternights-ee
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/neverwinternights-ee.webp
 keywords:
   - neverwinternights-ee

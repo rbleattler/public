@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Valheim dedicated gameserver with automatic update and world backup support
-home: https://truecharts.org/truetech/truecharts/charts/stable/valheim
+home: https://truecharts.org/charts/stable/valheim
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/valheim.webp
 keywords:
   - valheim

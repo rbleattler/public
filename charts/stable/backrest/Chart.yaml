@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Web-accessible backup solution built on top of restic.
-home: https://truecharts.org/truetech/truecharts/charts/stable/backrest
+home: https://truecharts.org/charts/stable/backrest
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/backrest.webp
 keywords:
   - backrest

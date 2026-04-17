@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A standalone, self-hosted, fast, free and Open Source Artificial Intelligence microserver for any platform, any language.
-home: https://truecharts.org/truetech/truecharts/charts/stable/codeproject-ai-server
+home: https://truecharts.org/charts/stable/codeproject-ai-server
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/codeproject-ai-server.webp
 keywords:
   - ai-server

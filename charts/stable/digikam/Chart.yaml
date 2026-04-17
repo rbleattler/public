@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Professional Photo Management with the Power of Open Source
-home: https://truecharts.org/truetech/truecharts/charts/stable/digikam
+home: https://truecharts.org/charts/stable/digikam
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/digikam.webp
 keywords:
   - digikam

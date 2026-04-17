@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: An awesome, Online Office suite image suitable for home use.
-home: https://truecharts.org/truetech/truecharts/charts/stable/collabora
+home: https://truecharts.org/charts/stable/collabora
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/collabora.webp
 keywords:
   - office

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: The Wyoming integration of openWakeWord
-home: https://truecharts.org/truetech/truecharts/charts/stable/wyoming-openwakeword
+home: https://truecharts.org/charts/stable/wyoming-openwakeword
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/wyoming-openwakeword.webp
 keywords:
   - wyoming-openwakeword

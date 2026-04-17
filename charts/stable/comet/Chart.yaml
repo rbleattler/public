@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: comet self-hosted
-home: https://truecharts.org/truetech/truecharts/charts/stable/comet
+home: https://truecharts.org/charts/stable/comet
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/comet.webp
 keywords:
   - comet

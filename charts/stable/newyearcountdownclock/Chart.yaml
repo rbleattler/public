@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Self Hosted, self contained New Year Countdown clock
-home: https://truecharts.org/truetech/truecharts/charts/stable/newyearcountdownclock
+home: https://truecharts.org/charts/stable/newyearcountdownclock
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/newyearcountdownclock.webp
 keywords:
   - newyearcountdownclock

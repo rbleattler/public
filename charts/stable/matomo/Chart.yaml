@@ -27,7 +27,7 @@ dependencies:
     import-values: []
 deprecated: true
 description: Matomo is the leading Free/Libre open analytics platform
-home: https://truecharts.org/truetech/truecharts/charts/stable/matomo
+home: https://truecharts.org/charts/stable/matomo
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/matomo.webp
 keywords:
   - analytics

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: ZeroTier is a smart programmable Ethernet switch for planet Earth
-home: https://truecharts.org/truetech/truecharts/charts/stable/zerotier
+home: https://truecharts.org/charts/stable/zerotier
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/zerotier.webp
 keywords:
   - zerotier

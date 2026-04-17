@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Plex downloader that brings content from any server to yours!
-home: https://truecharts.org/truetech/truecharts/charts/stable/reaparr
+home: https://truecharts.org/charts/stable/reaparr
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/reaparr.webp
 keywords:
   - reaparr

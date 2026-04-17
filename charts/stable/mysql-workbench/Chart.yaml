@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: MySQL Workbench is a unified visual tool for database architects, developers and DBAs.
-home: https://truecharts.org/truetech/truecharts/charts/stable/mysql-workbench
+home: https://truecharts.org/charts/stable/mysql-workbench
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/mysql-workbench.webp
 keywords:
   - mysql-workbench

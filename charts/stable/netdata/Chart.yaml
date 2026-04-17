@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Netdata is high-fidelity infrastructure monitoring and troubleshooting.
-home: https://truecharts.org/truetech/truecharts/charts/stable/netdata
+home: https://truecharts.org/charts/stable/netdata
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/netdata.webp
 keywords:
   - netdata

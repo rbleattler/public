@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Slskd is a modern client-server application for the Soulseek file sharing network.
-home: https://truecharts.org/truetech/truecharts/charts/stable/slskd
+home: https://truecharts.org/charts/stable/slskd
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/slskd.webp
 keywords:
   - slskd

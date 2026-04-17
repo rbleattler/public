@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Device Plugin to expose tun-device on talos
-home: https://truecharts.org/truetech/truecharts/charts/stable/generic-device-plugin
+home: https://truecharts.org/charts/stable/generic-device-plugin
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/generic-device-plugin.webp
 keywords:
   - jackett

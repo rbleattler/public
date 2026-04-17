@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: 'The newest Red-Discordbot in a convenient multi-arch Chart '
-home: https://truecharts.org/truetech/truecharts/charts/stable/red-discordbot
+home: https://truecharts.org/charts/stable/red-discordbot
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/red-discordbot.webp
 keywords:
   - red-discordbot

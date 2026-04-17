@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Test your General Knowledge in different types of topics.
-home: https://truecharts.org/truetech/truecharts/charts/stable/quiz-game
+home: https://truecharts.org/charts/stable/quiz-game
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/quiz-game.webp
 keywords:
   - quiz-game

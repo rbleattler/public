@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Aggregated management of TrueNAS devices
-home: https://truecharts.org/truetech/truecharts/charts/stable/truecommand
+home: https://truecharts.org/charts/stable/truecommand
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/truecommand.webp
 keywords:
   - truecommand

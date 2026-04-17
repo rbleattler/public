@@ -27,7 +27,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Monica is a great open source personal relationship management system.
-home: https://truecharts.org/truetech/truecharts/charts/stable/monica
+home: https://truecharts.org/charts/stable/monica
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/monica.webp
 keywords:
   - crm

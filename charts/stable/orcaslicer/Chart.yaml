@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Orca Slicer is an open source slicer for FDM printers.
-home: https://truecharts.org/truetech/truecharts/charts/stable/orcaslicer
+home: https://truecharts.org/charts/stable/orcaslicer
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/orcaslicer.webp
 keywords:
   - orcaslicer

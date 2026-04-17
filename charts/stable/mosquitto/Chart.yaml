@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Eclipse Mosquitto - An open source MQTT broker
-home: https://truecharts.org/truetech/truecharts/charts/stable/mosquitto
+home: https://truecharts.org/charts/stable/mosquitto
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/mosquitto.webp
 keywords:
   - mosquitto

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Home and Collection manager for Plex.
-home: https://truecharts.org/truetech/truecharts/charts/stable/agregarr
+home: https://truecharts.org/charts/stable/agregarr
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/agregarr.webp
 keywords:
   - agregarr

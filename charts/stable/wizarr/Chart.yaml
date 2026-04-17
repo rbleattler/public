@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A automatic user invitation system for Plex.
-home: https://truecharts.org/truetech/truecharts/charts/stable/wizarr
+home: https://truecharts.org/charts/stable/wizarr
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/wizarr.webp
 keywords:
   - wizarr

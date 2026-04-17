@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Music streaming server / subsonic server API implementation
-home: https://truecharts.org/truetech/truecharts/charts/stable/gonic
+home: https://truecharts.org/charts/stable/gonic
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/gonic.webp
 keywords:
   - music

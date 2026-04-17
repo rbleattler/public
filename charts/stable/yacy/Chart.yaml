@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: YaCy decentralized search engine (https://yacy.net)
-home: https://truecharts.org/truetech/truecharts/charts/stable/yacy
+home: https://truecharts.org/charts/stable/yacy
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/yacy.webp
 keywords:
   - yacy

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: API Support for your favorite torrent trackers.
-home: https://truecharts.org/truetech/truecharts/charts/stable/jackett
+home: https://truecharts.org/charts/stable/jackett
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/jackett.webp
 keywords:
   - jackett

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Stateless cluster local OCI registry mirror.
-home: https://truecharts.org/truetech/truecharts/charts/stable/spegel
+home: https://truecharts.org/charts/stable/spegel
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/spegel.webp
 keywords:
   - spegel

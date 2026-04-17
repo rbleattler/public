@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Dashy helps you organize your self-hosted services by making them accessible from a single place
-home: https://truecharts.org/truetech/truecharts/charts/stable/dashy
+home: https://truecharts.org/charts/stable/dashy
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/dashy.webp
 keywords:
   - dashboard

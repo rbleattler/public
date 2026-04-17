@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: DNS and Ad-filtering for your network
-home: https://truecharts.org/truetech/truecharts/charts/stable/pihole
+home: https://truecharts.org/charts/stable/pihole
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/pihole.webp
 keywords:
   - DNS

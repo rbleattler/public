@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: rustdesk self-hosted
-home: https://truecharts.org/truetech/truecharts/charts/stable/rustdesk
+home: https://truecharts.org/charts/stable/rustdesk
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/rustdesk.webp
 keywords:
   - rustdesk

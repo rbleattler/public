@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: TeamSpeak is software for quality voice communication via the Internet.
-home: https://truecharts.org/truetech/truecharts/charts/stable/teamspeak3
+home: https://truecharts.org/charts/stable/teamspeak3
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/teamspeak3.webp
 keywords:
   - voice server

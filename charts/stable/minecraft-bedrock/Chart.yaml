@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Minecraft Bedrock Dedicated Server
-home: https://truecharts.org/truetech/truecharts/charts/stable/minecraft-bedrock
+home: https://truecharts.org/charts/stable/minecraft-bedrock
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/minecraft-bedrock.webp
 keywords:
   - minecraft

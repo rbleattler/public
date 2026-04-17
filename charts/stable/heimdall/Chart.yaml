@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: An Application dashboard and launcher
-home: https://truecharts.org/truetech/truecharts/charts/stable/heimdall
+home: https://truecharts.org/charts/stable/heimdall
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/heimdall.webp
 keywords:
   - heimdall

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Fast, reliable, scalable, and easy to use open-source no-sql database system.
-home: https://truecharts.org/truetech/truecharts/charts/stable/mongodb
+home: https://truecharts.org/charts/stable/mongodb
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/mongodb.webp
 keywords:
   - mongodb

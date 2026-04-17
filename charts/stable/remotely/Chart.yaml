@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.
-home: https://truecharts.org/truetech/truecharts/charts/stable/remotely
+home: https://truecharts.org/charts/stable/remotely
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/remotely.webp
 keywords:
   - remotely

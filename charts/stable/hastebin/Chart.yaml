@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: 'Alpine-based Chart for Hastebin, the node.js paste service  '
-home: https://truecharts.org/truetech/truecharts/charts/stable/hastebin
+home: https://truecharts.org/charts/stable/hastebin
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/hastebin.webp
 keywords:
   - hastebin

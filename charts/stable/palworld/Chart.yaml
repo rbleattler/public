@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A custom SteamCMD chart that runs Palworld.
-home: https://truecharts.org/truetech/truecharts/charts/stable/palworld
+home: https://truecharts.org/charts/stable/palworld
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/palworld.webp
 keywords:
   - palworld

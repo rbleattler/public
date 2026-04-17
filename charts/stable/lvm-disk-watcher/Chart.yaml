@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Watches for empty disk to setup with LVM for use with TopoLVM
-home: https://truecharts.org/truetech/truecharts/charts/stable/lvm-disk-watcher
+home: https://truecharts.org/charts/stable/lvm-disk-watcher
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/lvm-disk-watcher.webp
 keywords:
   - lvm-disk-watcher

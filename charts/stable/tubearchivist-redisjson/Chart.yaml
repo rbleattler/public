@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: This is a dependancy Chart for the application "TubeArchivist"
-home: https://truecharts.org/truetech/truecharts/charts/stable/tubearchivist-redisjson
+home: https://truecharts.org/charts/stable/tubearchivist-redisjson
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/tubearchivist-redisjson.webp
 keywords:
   - tubearchivist-redisjson

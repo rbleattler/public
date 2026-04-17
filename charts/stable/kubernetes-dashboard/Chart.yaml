@@ -27,7 +27,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: The default Kubernetes Dashboard
-home: https://truecharts.org/truetech/truecharts/charts/stable/kubernetes-dashboard
+home: https://truecharts.org/charts/stable/kubernetes-dashboard
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/kubernetes-dashboard.webp
 keywords:
   - kubernetes-dashboard

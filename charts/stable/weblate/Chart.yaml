@@ -27,7 +27,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Weblate is a copylefted libre software web-based continuous localization system
-home: https://truecharts.org/truetech/truecharts/charts/stable/weblate
+home: https://truecharts.org/charts/stable/weblate
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/weblate.webp
 keywords:
   - translate

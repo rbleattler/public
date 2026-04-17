@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: aria server for downloading web content
-home: https://truecharts.org/truetech/truecharts/charts/stable/aria2
+home: https://truecharts.org/charts/stable/aria2
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/aria2.webp
 keywords:
   - aria2

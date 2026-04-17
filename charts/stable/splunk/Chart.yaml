@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: This is a Chartfile for Splunk designed for OpenShift and TrueNAS based on Alpine Linux - https://www.splunk.com
-home: https://truecharts.org/truetech/truecharts/charts/stable/splunk
+home: https://truecharts.org/charts/stable/splunk
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/splunk.webp
 keywords:
   - splunk

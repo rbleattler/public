@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Local file sharing in your web browser.
-home: https://truecharts.org/truetech/truecharts/charts/stable/pairdrop
+home: https://truecharts.org/charts/stable/pairdrop
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/pairdrop.webp
 keywords:
   - file-sharing

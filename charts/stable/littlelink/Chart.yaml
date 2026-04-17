@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Easy platform to combine all your social links
-home: https://truecharts.org/truetech/truecharts/charts/stable/littlelink
+home: https://truecharts.org/charts/stable/littlelink
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.webp
 keywords:
   - littlelink

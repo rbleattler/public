@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: HTPC/Homelab Services Organizer
-home: https://truecharts.org/truetech/truecharts/charts/stable/organizr
+home: https://truecharts.org/charts/stable/organizr
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/organizr.webp
 keywords:
   - organizr

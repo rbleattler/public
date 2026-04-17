@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: This Chart will download and install SteamCMD. It will also install Colony Survival and run it.
-home: https://truecharts.org/truetech/truecharts/charts/stable/colonysurvival
+home: https://truecharts.org/charts/stable/colonysurvival
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/colonysurvival.webp
 keywords:
   - colonysurvival

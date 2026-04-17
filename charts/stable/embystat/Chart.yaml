@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Embystat is a personal web server that can calculate all kinds of statistics from your (local) Emby server.
-home: https://truecharts.org/truetech/truecharts/charts/stable/embystat
+home: https://truecharts.org/charts/stable/embystat
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/embystat.webp
 keywords:
   - embystat

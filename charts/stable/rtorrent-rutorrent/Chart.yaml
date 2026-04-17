@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: rTorrent and ruTorrent chart.
-home: https://truecharts.org/truetech/truecharts/charts/stable/rtorrent-rutorrent
+home: https://truecharts.org/charts/stable/rtorrent-rutorrent
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/rtorrent-rutorrent.webp
 keywords:
   - rutorrent

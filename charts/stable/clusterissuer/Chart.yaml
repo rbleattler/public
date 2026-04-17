@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Certificate management for Kubernetes
-home: https://truecharts.org/truetech/truecharts/charts/stable/clusterissuer
+home: https://truecharts.org/charts/stable/clusterissuer
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.webp
 keywords:
   - cert-manager

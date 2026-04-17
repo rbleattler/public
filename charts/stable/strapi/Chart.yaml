@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Open-source headless CMS. JavaScript, fully customizable and developer-first.
-home: https://truecharts.org/truetech/truecharts/charts/stable/strapi
+home: https://truecharts.org/charts/stable/strapi
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/strapi.webp
 keywords:
   - strapi

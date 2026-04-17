@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Hyperion is an opensource Bias or Ambient Lighting implementation
-home: https://truecharts.org/truetech/truecharts/charts/stable/hyperion-ng
+home: https://truecharts.org/charts/stable/hyperion-ng
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/hyperion-ng.webp
 keywords:
   - hyperion-ng

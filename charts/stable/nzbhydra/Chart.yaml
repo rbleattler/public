@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Usenet meta search
-home: https://truecharts.org/truetech/truecharts/charts/stable/nzbhydra
+home: https://truecharts.org/charts/stable/nzbhydra
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/nzbhydra.webp
 keywords:
   - nzbhydra

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Authentik is an open-source Identity Provider focused on flexibility and versatility.
-home: https://truecharts.org/truetech/truecharts/charts/stable/authentik
+home: https://truecharts.org/charts/stable/authentik
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/authentik.webp
 keywords:
   - authentik

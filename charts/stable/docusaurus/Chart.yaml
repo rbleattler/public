@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Docusaurus makes it easy to maintain Open Source documentation websites.
-home: https://truecharts.org/truetech/truecharts/charts/stable/docusaurus
+home: https://truecharts.org/charts/stable/docusaurus
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/docusaurus.webp
 keywords:
   - documentation

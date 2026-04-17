@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Control AndroidTV/FireTV devices through ADB from the Home Assistant Core Chart.
-home: https://truecharts.org/truetech/truecharts/charts/stable/androiddebugbridge
+home: https://truecharts.org/charts/stable/androiddebugbridge
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/androiddebugbridge.webp
 keywords:
   - androiddebugbridge

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A self-hosted static file serving app which does nothing more than just serve up static files from a mounted volume.
-home: https://truecharts.org/truetech/truecharts/charts/stable/static
+home: https://truecharts.org/charts/stable/static
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/static.webp
 keywords:
   - app

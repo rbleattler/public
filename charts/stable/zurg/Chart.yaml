@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: zurg Self-Hosted
-home: https://truecharts.org/truetech/truecharts/charts/stable/zurg
+home: https://truecharts.org/charts/stable/zurg
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/zurg.webp
 keywords:
   - zurg

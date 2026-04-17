@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Audio/Video library transcoding automation
-home: https://truecharts.org/truetech/truecharts/charts/stable/tdarr-node
+home: https://truecharts.org/charts/stable/tdarr-node
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/tdarr-node.webp
 keywords:
   - encode

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: pretend-youre-xyzzy, a cards against humanity clone
-home: https://truecharts.org/truetech/truecharts/charts/stable/pretend-youre-xyzzy
+home: https://truecharts.org/charts/stable/pretend-youre-xyzzy
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/pretend-youre-xyzzy.webp
 keywords:
   - pretend-youre-xyzzy

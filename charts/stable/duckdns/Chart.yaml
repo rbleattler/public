@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Duckdns is a free service which will point a DNS (sub domains of duckdns.org) to an IP of your choice.
-home: https://truecharts.org/truetech/truecharts/charts/stable/duckdns
+home: https://truecharts.org/charts/stable/duckdns
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/duckdns.webp
 keywords:
   - duckdns

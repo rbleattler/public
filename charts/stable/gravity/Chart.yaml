@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd.
-home: https://truecharts.org/truetech/truecharts/charts/stable/gravity
+home: https://truecharts.org/charts/stable/gravity
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/gravity.webp
 keywords:
   - gravity

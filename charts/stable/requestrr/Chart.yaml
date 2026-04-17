@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat.
-home: https://truecharts.org/truetech/truecharts/charts/stable/requestrr
+home: https://truecharts.org/charts/stable/requestrr
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/requestrr.webp
 keywords:
   - requestrr

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Self-hosted Rick Roll chart.
-home: https://truecharts.org/truetech/truecharts/charts/stable/rickroll
+home: https://truecharts.org/charts/stable/rickroll
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/rickroll.webp
 keywords:
   - rickroll

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: The Wyoming integration of piper
-home: https://truecharts.org/truetech/truecharts/charts/stable/wyoming-piper
+home: https://truecharts.org/charts/stable/wyoming-piper
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/wyoming-piper.webp
 keywords:
   - wyoming-piper

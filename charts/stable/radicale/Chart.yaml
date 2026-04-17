@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Radicale is a small but powerful CalDAV (calendars, to-do lists) and CardDAV (contacts) server.
-home: https://truecharts.org/truetech/truecharts/charts/stable/radicale
+home: https://truecharts.org/charts/stable/radicale
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/radicale.webp
 keywords:
   - radicale

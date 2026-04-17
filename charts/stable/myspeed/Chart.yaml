@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Speedtest automation made simple.
-home: https://truecharts.org/truetech/truecharts/charts/stable/myspeed
+home: https://truecharts.org/charts/stable/myspeed
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/myspeed.webp
 keywords:
   - myspeed

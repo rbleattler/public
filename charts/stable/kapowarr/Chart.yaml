@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Kapowarr is a software to build and manage a comic book library, fitting in the *arr suite of software.
-home: https://truecharts.org/truetech/truecharts/charts/stable/kapowarr
+home: https://truecharts.org/charts/stable/kapowarr
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/kapowarr.webp
 keywords:
   - kapowarr

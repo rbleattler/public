@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Search Engine Position Tracking App.
-home: https://truecharts.org/truetech/truecharts/charts/stable/serpbear
+home: https://truecharts.org/charts/stable/serpbear
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/serpbear.webp
 keywords:
   - serpbear

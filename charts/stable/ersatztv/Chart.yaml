@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: ErsatzTV configuring and streaming custom live channels using your media library.
-home: https://truecharts.org/truetech/truecharts/charts/stable/ersatztv
+home: https://truecharts.org/charts/stable/ersatztv
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/ersatztv.webp
 keywords:
   - ersatztv

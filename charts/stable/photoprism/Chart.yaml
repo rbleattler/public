@@ -27,7 +27,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: PhotoPrism® is a server-based application for browsing, organizing and sharing your personal photo collection
-home: https://truecharts.org/truetech/truecharts/charts/stable/photoprism
+home: https://truecharts.org/charts/stable/photoprism
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/photoprism.webp
 keywords:
   - photos

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Easily broadcast/stream to others with sub-second latency
-home: https://truecharts.org/truetech/truecharts/charts/stable/broadcast-box
+home: https://truecharts.org/charts/stable/broadcast-box
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/broadcast-box.webp
 keywords:
   - broadcast-box

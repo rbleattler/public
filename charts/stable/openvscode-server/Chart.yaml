@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Openvscode-server provides a version of VS Code that runs a server on a remote machine.
-home: https://truecharts.org/truetech/truecharts/charts/stable/openvscode-server
+home: https://truecharts.org/charts/stable/openvscode-server
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/openvscode-server.webp
 keywords:
   - openvscode-server

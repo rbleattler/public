@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: NZBGet is a Usenet downloader client
-home: https://truecharts.org/truetech/truecharts/charts/stable/nzbget
+home: https://truecharts.org/charts/stable/nzbget
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/nzbget.webp
 keywords:
   - nzbget

@@ -34,7 +34,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Protect your email from spam using disposable addresses.
-home: https://truecharts.org/truetech/truecharts/charts/stable/anonaddy
+home: https://truecharts.org/charts/stable/anonaddy
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/anonaddy.webp
 keywords:
   - anonaddy

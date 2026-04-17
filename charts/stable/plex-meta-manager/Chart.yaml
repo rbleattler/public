@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Python script to update metadata and automatically build collections.
-home: https://truecharts.org/truetech/truecharts/charts/stable/plex-meta-manager
+home: https://truecharts.org/charts/stable/plex-meta-manager
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/plex-meta-manager.webp
 keywords:
   - plex-meta-manager

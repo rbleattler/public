@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: This Chart will download and install SteamCMD. It will also install Barotrauma and run it.
-home: https://truecharts.org/truetech/truecharts/charts/stable/barotrauma
+home: https://truecharts.org/charts/stable/barotrauma
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/barotrauma.webp
 keywords:
   - barotrauma

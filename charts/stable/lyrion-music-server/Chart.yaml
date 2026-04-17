@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Lyrion Music Server is a platform for home/office audio streaming.
-home: https://truecharts.org/truetech/truecharts/charts/stable/lyrion-music-server
+home: https://truecharts.org/charts/stable/lyrion-music-server
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/lyrion-music-server.webp
 keywords:
   - lyrion-music-server

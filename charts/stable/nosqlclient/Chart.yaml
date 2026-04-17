@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
-home: https://truecharts.org/truetech/truecharts/charts/stable/nosqlclient
+home: https://truecharts.org/charts/stable/nosqlclient
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/nosqlclient.webp
 keywords:
   - nosqlclient

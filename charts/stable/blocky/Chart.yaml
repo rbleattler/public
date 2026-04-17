@@ -27,7 +27,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written in Go
-home: https://truecharts.org/truetech/truecharts/charts/stable/blocky
+home: https://truecharts.org/charts/stable/blocky
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/blocky.webp
 keywords:
   - dns

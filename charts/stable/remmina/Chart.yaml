@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A remote desktop client written in GTK
-home: https://truecharts.org/truetech/truecharts/charts/stable/remmina
+home: https://truecharts.org/charts/stable/remmina
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/remmina.webp
 keywords:
   - remina

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Enjoy Prusaslicer directly in your browser with this easy to use Chart Chart.
-home: https://truecharts.org/truetech/truecharts/charts/stable/prusaslicer-novnc
+home: https://truecharts.org/charts/stable/prusaslicer-novnc
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/prusaslicer-novnc.webp
 keywords:
   - prusaslicer-novnc

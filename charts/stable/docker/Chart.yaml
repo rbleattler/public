@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Dedicated App for using Docker-in-Docker
-home: https://truecharts.org/truetech/truecharts/charts/stable/docker
+home: https://truecharts.org/charts/stable/docker
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/docker.webp
 keywords:
   - docker

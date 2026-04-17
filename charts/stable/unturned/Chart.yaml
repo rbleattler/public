@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Unturned SteamCMD
-home: https://truecharts.org/truetech/truecharts/charts/stable/unturned
+home: https://truecharts.org/charts/stable/unturned
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/unturned.webp
 keywords:
   - unturned

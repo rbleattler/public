@@ -27,7 +27,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Baserow is an open source no-code database tool and Airtable alternative.
-home: https://truecharts.org/truetech/truecharts/charts/stable/baserow
+home: https://truecharts.org/charts/stable/baserow
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/baserow.webp
 keywords:
   - baserow

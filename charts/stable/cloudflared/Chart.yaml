@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge.
-home: https://truecharts.org/truetech/truecharts/charts/stable/cloudflared
+home: https://truecharts.org/charts/stable/cloudflared
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/cloudflared.webp
 keywords:
   - cloudflared

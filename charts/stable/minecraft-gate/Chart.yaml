@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: An extensible, high performant & paralleled Minecraft proxy server.
-home: https://truecharts.org/truetech/truecharts/charts/stable/minecraft-gate
+home: https://truecharts.org/charts/stable/minecraft-gate
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/minecraft-gate.webp
 keywords:
   - minecraft-gate

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Wallos - Self Hosted Subscription tracker
-home: https://truecharts.org/truetech/truecharts/charts/stable/wallos
+home: https://truecharts.org/charts/stable/wallos
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/wallos.webp
 keywords:
   - dashboard

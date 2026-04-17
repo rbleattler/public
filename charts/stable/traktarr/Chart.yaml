@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Script to add new series and movies to Sonarr/Radarr based on Trakt lists.
-home: https://truecharts.org/truetech/truecharts/charts/stable/traktarr
+home: https://truecharts.org/charts/stable/traktarr
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/traktarr.webp
 keywords:
   - traktarr

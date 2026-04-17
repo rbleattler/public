@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: 'A tool for managing Factorio servers '
-home: https://truecharts.org/truetech/truecharts/charts/stable/factorioservermanager
+home: https://truecharts.org/charts/stable/factorioservermanager
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/factorioservermanager.webp
 keywords:
   - factorioservermanager

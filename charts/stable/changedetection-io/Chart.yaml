@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: The best and simplest free open source website change detection, website watcher, restock monitor and notification service
-home: https://truecharts.org/truetech/truecharts/charts/stable/changedetection-io
+home: https://truecharts.org/charts/stable/changedetection-io
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/changedetection-io.webp
 keywords:
   - monitoring

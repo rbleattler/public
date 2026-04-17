@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Headless version of the YACReaderLibraryServer.
-home: https://truecharts.org/truetech/truecharts/charts/stable/yacreaderlibraryserver
+home: https://truecharts.org/charts/stable/yacreaderlibraryserver
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/yacreaderlibraryserver.webp
 keywords:
   - yacreaderlibraryserver

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Your Ultimate IPTV & Stream Management Companion
-home: https://truecharts.org/truetech/truecharts/charts/stable/dispatcharr
+home: https://truecharts.org/charts/stable/dispatcharr
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/dispatcharr.webp
 keywords:
   - dispatcharr
