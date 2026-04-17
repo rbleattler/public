@@ -2,6 +2,7 @@ annotations:
   artifacthub.io/links: |-
     - name: support
     url: https://discord.com/invite/tVsPTHWTtr
+  truecharts.org/train: stable
   trueforge.org/category: productivity
   trueforge.org/max_helm_version: "4.1"
   trueforge.org/max_kubernetes_version: 1.35.0
@@ -26,15 +27,15 @@ dependencies:
     import-values: []
 deprecated: false
 description: Baserow is an open source no-code database tool and Airtable alternative.
-home: https://trueforge.org/truetech/truecharts/charts/stable/baserow
-icon: https://trueforge.org/img/hotlink-ok/chart-icons/baserow.webp
+home: https://truecharts.org/truetech/truecharts/charts/stable/baserow
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/baserow.webp
 keywords:
   - baserow
-kubeVersion: '>=1.27.0-0'
+kubeVersion: '>=1.33.0-0'
 maintainers:
   - name: TrueCharts
-    email: info@trueforge.org
-    url: https://trueforge.org
+    email: info@truecharts.org
+    url: https://truecharts.org
 name: baserow
 sources:
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/baserow
