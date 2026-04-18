@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: the front-end of a cluster of minecraft-java containers.
-home: https://truecharts.org/charts/stable/minecraft-proxy
+home: https://truecharts.org/truetech/truecharts/charts/stable/minecraft-proxy
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/minecraft-proxy.webp
 keywords:
   - minecraft-proxy

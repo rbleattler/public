@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A knowledge base that works on local Markdown files.
-home: https://truecharts.org/charts/stable/obsidian
+home: https://truecharts.org/truetech/truecharts/charts/stable/obsidian
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/obsidian.webp
 keywords:
   - obsidian

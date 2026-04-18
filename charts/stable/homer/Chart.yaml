@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A dead simple static homepage for your server to keep your services on hand.
-home: https://truecharts.org/charts/stable/homer
+home: https://truecharts.org/truetech/truecharts/charts/stable/homer
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/homer.webp
 keywords:
   - homer

@@ -41,7 +41,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Advanced Template to create your own TrueCharts-based Charts
-home: https://truecharts.org/charts/stable/app-template
+home: https://truecharts.org/truetech/truecharts/charts/stable/app-template
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/app-template.webp
 keywords:
   - custom

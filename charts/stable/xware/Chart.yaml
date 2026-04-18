@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: This is a Chart of Thunder downloader.
-home: https://truecharts.org/charts/stable/xware
+home: https://truecharts.org/truetech/truecharts/charts/stable/xware
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/xware.webp
 keywords:
   - xware

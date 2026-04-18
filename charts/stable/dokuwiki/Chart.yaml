@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Dokuwiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database.
-home: https://truecharts.org/charts/stable/dokuwiki
+home: https://truecharts.org/truetech/truecharts/charts/stable/dokuwiki
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/dokuwiki.webp
 keywords:
   - dokuwiki

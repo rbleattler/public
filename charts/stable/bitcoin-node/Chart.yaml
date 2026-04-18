@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Chart that runs the Bitcoin bitcoind node in a Chart for easy deployment.
-home: https://truecharts.org/charts/stable/bitcoin-node
+home: https://truecharts.org/truetech/truecharts/charts/stable/bitcoin-node
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/bitcoin-node.webp
 keywords:
   - bitcoin-node

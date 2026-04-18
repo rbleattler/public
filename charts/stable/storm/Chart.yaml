@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A Modern Deluge Interface.
-home: https://truecharts.org/charts/stable/storm
+home: https://truecharts.org/truetech/truecharts/charts/stable/storm
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/storm.webp
 keywords:
   - storm

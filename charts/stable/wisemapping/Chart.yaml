@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: home-assistant App for TrueNAS SCALE
-home: https://truecharts.org/charts/stable/wisemapping
+home: https://truecharts.org/truetech/truecharts/charts/stable/wisemapping
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/wisemapping.webp
 keywords:
   - mapping

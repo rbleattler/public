@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A simple go project that allows you to expose prometheus metrics "safely" to a public source.
-home: https://truecharts.org/charts/stable/kromgo
+home: https://truecharts.org/truetech/truecharts/charts/stable/kromgo
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/kromgo.webp
 keywords:
   - kromgo

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Miniflux is a minimalist and opinionated feed reader.
-home: https://truecharts.org/charts/stable/miniflux
+home: https://truecharts.org/truetech/truecharts/charts/stable/miniflux
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/miniflux.webp
 keywords:
   - miniflux

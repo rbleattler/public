@@ -27,7 +27,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: High performance self-hosted photo and video backup solution.
-home: https://truecharts.org/charts/stable/immich
+home: https://truecharts.org/truetech/truecharts/charts/stable/immich
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/immich.webp
 keywords:
   - photos

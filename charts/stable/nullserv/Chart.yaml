@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A simple null file http and https server
-home: https://truecharts.org/charts/stable/nullserv
+home: https://truecharts.org/truetech/truecharts/charts/stable/nullserv
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/nullserv.webp
 keywords:
   - nullserv

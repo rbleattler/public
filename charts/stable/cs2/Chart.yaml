@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A custom SteamCMD chart that runs CS2.
-home: https://truecharts.org/charts/stable/cs2
+home: https://truecharts.org/truetech/truecharts/charts/stable/cs2
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/cs2.webp
 keywords:
   - cs2

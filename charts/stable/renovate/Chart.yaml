@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: renovate self-hosted
-home: https://truecharts.org/charts/stable/renovate
+home: https://truecharts.org/truetech/truecharts/charts/stable/renovate
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/renovate.webp
 keywords:
   - renovate

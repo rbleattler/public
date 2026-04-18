@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Get all your books, like series with Sonarr...
-home: https://truecharts.org/charts/stable/lazylibrarian
+home: https://truecharts.org/truetech/truecharts/charts/stable/lazylibrarian
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/lazylibrarian.webp
 keywords:
   - lazylibrarian

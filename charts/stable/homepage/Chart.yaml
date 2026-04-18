@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A highly customizable homepage
-home: https://truecharts.org/charts/stable/homepage
+home: https://truecharts.org/truetech/truecharts/charts/stable/homepage
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/homepage.webp
 keywords:
   - homepage

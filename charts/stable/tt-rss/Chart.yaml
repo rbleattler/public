@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Tiny Tiny RSS is a free and open source web-based news feed (RSS/Atom) reader and aggregator.
-home: https://truecharts.org/charts/stable/tt-rss
+home: https://truecharts.org/truetech/truecharts/charts/stable/tt-rss
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/tt-rss.webp
 keywords:
   - tt-rss

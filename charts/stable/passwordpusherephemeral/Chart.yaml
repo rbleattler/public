@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Ephemeral version requires no other database Chart! PasswordPusher or PWPush is an opensource application to communicate passwords over the web. Links to passwords expire after a certain number of views and/or time has passed.
-home: https://truecharts.org/charts/stable/passwordpusherephemeral
+home: https://truecharts.org/truetech/truecharts/charts/stable/passwordpusherephemeral
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/passwordpusherephemeral.webp
 keywords:
   - passwordpusherephemeral

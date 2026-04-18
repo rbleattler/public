@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: M3U Proxy for Plex DVR and Emby/Jellyfin Live TV. Based on xTeVe.
-home: https://truecharts.org/charts/stable/threadfin
+home: https://truecharts.org/truetech/truecharts/charts/stable/threadfin
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/threadfin.webp
 keywords:
   - threadfin

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A self-hosted data logger for your Tesla
-home: https://truecharts.org/charts/stable/teslamate
+home: https://truecharts.org/truetech/truecharts/charts/stable/teslamate
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/teslamate.webp
 keywords:
   - analytics

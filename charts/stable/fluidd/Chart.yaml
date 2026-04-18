@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Fluidd is a free and open-source Klipper web interface for managing your 3d printer.
-home: https://truecharts.org/charts/stable/fluidd
+home: https://truecharts.org/truetech/truecharts/charts/stable/fluidd
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/fluidd.webp
 keywords:
   - fluidd

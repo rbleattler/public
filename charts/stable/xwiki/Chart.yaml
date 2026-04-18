@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: XWiki is a free wiki software platform written in Java with a design emphasis on extensibility
-home: https://truecharts.org/charts/stable/xwiki
+home: https://truecharts.org/truetech/truecharts/charts/stable/xwiki
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/xwiki.webp
 keywords:
   - xwiki

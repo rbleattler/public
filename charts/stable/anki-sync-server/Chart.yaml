@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A cross-platform Anki sync server.
-home: https://truecharts.org/charts/stable/anki-sync-server
+home: https://truecharts.org/truetech/truecharts/charts/stable/anki-sync-server
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/anki-sync-server.webp
 keywords:
   - anki-sync-server

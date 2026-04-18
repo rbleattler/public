@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Sourcegraph Chart.
-home: https://truecharts.org/charts/stable/sourcegraph
+home: https://truecharts.org/truetech/truecharts/charts/stable/sourcegraph
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/sourcegraph.webp
 keywords:
   - sourcegraph

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Redmine is a flexible project management web application written using Ruby on Rails framework.
-home: https://truecharts.org/charts/stable/redmine
+home: https://truecharts.org/truetech/truecharts/charts/stable/redmine
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/redmine.webp
 keywords:
   - project

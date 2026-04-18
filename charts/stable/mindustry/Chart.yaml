@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: This is a Basic Mindustry Server. It will download the preferred version of Mindustry and run it.
-home: https://truecharts.org/charts/stable/mindustry
+home: https://truecharts.org/truetech/truecharts/charts/stable/mindustry
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/mindustry.webp
 keywords:
   - mindustry

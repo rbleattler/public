@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Zilean self-hosted
-home: https://truecharts.org/charts/stable/zilean
+home: https://truecharts.org/truetech/truecharts/charts/stable/zilean
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/zilean.webp
 keywords:
   - zilean

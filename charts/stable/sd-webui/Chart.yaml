@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: sd-webui-docker Chart
-home: https://truecharts.org/charts/stable/sd-webui-docker
+home: https://truecharts.org/truetech/truecharts/charts/stable/sd-webui-docker
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/sd-webui-docker.webp
 keywords:
   - Whisper

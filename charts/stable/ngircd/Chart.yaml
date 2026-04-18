@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Ngircd is a free, portable and lightweight Internet Relay Chat server for small or private networks.
-home: https://truecharts.org/charts/stable/ngircd
+home: https://truecharts.org/truetech/truecharts/charts/stable/ngircd
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/ngircd.webp
 keywords:
   - ngircd

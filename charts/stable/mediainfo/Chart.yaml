@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
-home: https://truecharts.org/charts/stable/mediainfo
+home: https://truecharts.org/truetech/truecharts/charts/stable/mediainfo
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/mediainfo.webp
 keywords:
   - info

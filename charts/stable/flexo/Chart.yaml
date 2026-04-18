@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Arch linux pacman cache proxy server
-home: https://truecharts.org/charts/stable/flexo
+home: https://truecharts.org/truetech/truecharts/charts/stable/flexo
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/flexo.webp
 keywords:
   - flexo

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Snapdrop A local file sharing in your browser. Inspired by Apple's Airdrop.
-home: https://truecharts.org/charts/stable/snapdrop
+home: https://truecharts.org/truetech/truecharts/charts/stable/snapdrop
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/snapdrop.webp
 keywords:
   - snapdrop

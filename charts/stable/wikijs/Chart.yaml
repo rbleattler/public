@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Make documentation a joy to write using Wiki.js's beautiful and intuitive interface!
-home: https://truecharts.org/charts/stable/wikijs
+home: https://truecharts.org/truetech/truecharts/charts/stable/wikijs
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/wikijs.webp
 keywords:
   - wiki

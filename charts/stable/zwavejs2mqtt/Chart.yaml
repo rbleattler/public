@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Full featured Z-Wave Control Panel and MQTT Gateway, using NodeJS and Vue.
-home: https://truecharts.org/charts/stable/zwavejs2mqtt
+home: https://truecharts.org/truetech/truecharts/charts/stable/zwavejs2mqtt
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/zwavejs2mqtt.webp
 keywords:
   - zwavejs2mqtt

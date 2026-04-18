@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Homarr is a simple and lightweight homepage for your server, that helps you easily access all of your services in one place.
-home: https://truecharts.org/charts/stable/homarr
+home: https://truecharts.org/truetech/truecharts/charts/stable/homarr
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/homarr.webp
 keywords:
   - dashboard

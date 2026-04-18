@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: An instance of kdenlive accessible through vnc and noVnc (=Web Interface)
-home: https://truecharts.org/charts/stable/kdenlive-vnc
+home: https://truecharts.org/truetech/truecharts/charts/stable/kdenlive-vnc
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/kdenlive-vnc.webp
 keywords:
   - kdenlive-vnc

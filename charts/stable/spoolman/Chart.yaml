@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Keep track of your inventory of 3D-printer filament spools.
-home: https://truecharts.org/charts/stable/spoolman
+home: https://truecharts.org/truetech/truecharts/charts/stable/spoolman
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/spoolman.webp
 keywords:
   - spoolman

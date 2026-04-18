@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Omada is a SDN tool for TP-Link Omada hardware
-home: https://truecharts.org/charts/stable/omada-controller
+home: https://truecharts.org/truetech/truecharts/charts/stable/omada-controller
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/omada-controller.webp
 keywords:
   - omada-controller

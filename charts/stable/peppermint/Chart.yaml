@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: An open source ticket management & help desk solution.
-home: https://truecharts.org/charts/stable/peppermint
+home: https://truecharts.org/truetech/truecharts/charts/stable/peppermint
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/peppermint.webp
 keywords:
   - peppermint

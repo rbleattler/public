@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Container management made easy
-home: https://truecharts.org/charts/stable/portainer
+home: https://truecharts.org/truetech/truecharts/charts/stable/portainer
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/portainer.webp
 keywords:
   - portainer

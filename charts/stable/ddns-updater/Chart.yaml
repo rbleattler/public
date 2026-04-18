@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Light container updating DNS A and/or AAAA records periodically for multiple DNS providers
-home: https://truecharts.org/charts/stable/ddns-updater
+home: https://truecharts.org/truetech/truecharts/charts/stable/ddns-updater
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/ddns-updater.webp
 keywords:
   - ddns-updater

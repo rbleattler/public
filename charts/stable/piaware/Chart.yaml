@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Program for forwarding ADS-B data to FlightAware
-home: https://truecharts.org/charts/stable/piaware
+home: https://truecharts.org/truetech/truecharts/charts/stable/piaware
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/piaware.webp
 keywords:
   - piaware

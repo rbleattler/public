@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Automated service health dashboard
-home: https://truecharts.org/charts/stable/gatus
+home: https://truecharts.org/truetech/truecharts/charts/stable/gatus
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/gatus.webp
 keywords:
   - gatus

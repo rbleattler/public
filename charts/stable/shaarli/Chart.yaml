@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: The personal, minimalist, super-fast, database free, bookmarking service.
-home: https://truecharts.org/charts/stable/shaarli
+home: https://truecharts.org/truetech/truecharts/charts/stable/shaarli
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/shaarli.webp
 keywords:
   - shaarli

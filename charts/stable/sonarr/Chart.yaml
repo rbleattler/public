@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Smart PVR for newsgroup and bittorrent users
-home: https://truecharts.org/charts/stable/sonarr
+home: https://truecharts.org/truetech/truecharts/charts/stable/sonarr
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/sonarr.webp
 keywords:
   - sonarr

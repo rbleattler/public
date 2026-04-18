@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: This Chart will download and install CounterStrike 2D.
-home: https://truecharts.org/charts/stable/counterstrike2d
+home: https://truecharts.org/truetech/truecharts/charts/stable/counterstrike2d
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/counterstrike2d.webp
 keywords:
   - counterstrike2d

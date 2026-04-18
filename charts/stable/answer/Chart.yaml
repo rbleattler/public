@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A Q&A platform software for teams at any scales.
-home: https://truecharts.org/charts/stable/answer
+home: https://truecharts.org/truetech/truecharts/charts/stable/answer
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/answer.webp
 keywords:
   - answer

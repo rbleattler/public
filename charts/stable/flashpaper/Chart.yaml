@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: One-time encrypted password/secret sharing
-home: https://truecharts.org/charts/stable/flashpaper
+home: https://truecharts.org/truetech/truecharts/charts/stable/flashpaper
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/flashpaper.webp
 keywords:
   - flashpaper

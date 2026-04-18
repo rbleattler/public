@@ -27,7 +27,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A private cloud server that puts the control and security of your own data back into your hands.
-home: https://truecharts.org/charts/stable/nextcloud
+home: https://truecharts.org/truetech/truecharts/charts/stable/nextcloud
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.webp
 keywords:
   - nextcloud

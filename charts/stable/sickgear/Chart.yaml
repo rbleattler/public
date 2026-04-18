@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Provides management of TV shows and/or Anime, it detects new episodes, links downloader apps, and more
-home: https://truecharts.org/charts/stable/sickgear
+home: https://truecharts.org/truetech/truecharts/charts/stable/sickgear
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/sickgear.webp
 keywords:
   - sickgear

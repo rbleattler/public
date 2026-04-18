@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Open source, advanced key-value store.
-home: https://truecharts.org/charts/incubator/valkey
+home: https://truecharts.org/truetech/truecharts/charts/incubator/valkey
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/valkey.webp
 keywords:
   - valkey

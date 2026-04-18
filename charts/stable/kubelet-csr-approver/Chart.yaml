@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Automatically approve internal Kubelet Certificate Signing Requests
-home: https://truecharts.org/charts/stable/kubelet-csr-approver
+home: https://truecharts.org/truetech/truecharts/charts/stable/kubelet-csr-approver
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/kubelet-csr-approver.webp
 keywords:
   - kubelet-csr-approver

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Official SongKong Chart repository, Identify your songs and add metadata and artwork automatically
-home: https://truecharts.org/charts/stable/songkong
+home: https://truecharts.org/truetech/truecharts/charts/stable/songkong
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/songkong.webp
 keywords:
   - songkong

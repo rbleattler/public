@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Collect your UniFi controller data and report it to an InfluxDB instance, or export it for Prometheus collection.
-home: https://truecharts.org/charts/stable/unpoller
+home: https://truecharts.org/truetech/truecharts/charts/stable/unpoller
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/unpoller.webp
 keywords:
   - unifi

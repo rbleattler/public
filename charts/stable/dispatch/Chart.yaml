@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Web-based IRC client in Go.
-home: https://truecharts.org/charts/stable/dispatch
+home: https://truecharts.org/truetech/truecharts/charts/stable/dispatch
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/dispatch.webp
 keywords:
   - dispatch

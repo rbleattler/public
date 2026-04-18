@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Znc is an IRC network bouncer or BNC. It can detach the client from the actual IRC server, and also from selected channels.
-home: https://truecharts.org/charts/stable/znc
+home: https://truecharts.org/truetech/truecharts/charts/stable/znc
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/znc.webp
 keywords:
   - znc

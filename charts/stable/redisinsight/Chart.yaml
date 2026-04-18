@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: GUI for Redis.
-home: https://truecharts.org/charts/stable/redisinsight
+home: https://truecharts.org/truetech/truecharts/charts/stable/redisinsight
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/redisinsight.webp
 keywords:
   - redisinsight

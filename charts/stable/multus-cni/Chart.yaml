@@ -21,7 +21,7 @@ dependencies:
 deprecated: false
 description: |
   A CNI meta-plugin for multi-homed pods in Kubernetes
-home: https://truecharts.org/charts/stable/multus-cni
+home: https://truecharts.org/truetech/truecharts/charts/stable/multus-cni
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/multus-cni.webp
 keywords:
   - cni

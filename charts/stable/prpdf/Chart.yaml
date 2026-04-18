@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: This tool is for Preview and Rename scanned PDF-Documents. Rulebased autoscan with OCR. Merge etc.
-home: https://truecharts.org/charts/stable/prpdf
+home: https://truecharts.org/truetech/truecharts/charts/stable/prpdf
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/prpdf.webp
 keywords:
   - prpdf

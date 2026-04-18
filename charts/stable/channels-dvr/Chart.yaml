@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Channels DVR Server
-home: https://truecharts.org/charts/stable/channels-dvr
+home: https://truecharts.org/truetech/truecharts/charts/stable/channels-dvr
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/channels-dvr.webp
 keywords:
   - channels-dvr

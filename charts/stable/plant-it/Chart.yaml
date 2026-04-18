@@ -34,7 +34,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Plant-it is a self-hosted gardening companion app.
-home: https://truecharts.org/charts/stable/plant-it
+home: https://truecharts.org/truetech/truecharts/charts/stable/plant-it
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/plant-it.webp
 keywords:
   - plant

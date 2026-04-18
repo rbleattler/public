@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A dead simple URL shortener.
-home: https://truecharts.org/charts/stable/simply-shorten
+home: https://truecharts.org/truetech/truecharts/charts/stable/simply-shorten
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/simply-shorten.webp
 keywords:
   - simply-shorten

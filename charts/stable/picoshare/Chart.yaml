@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: PicoShare is a minimalist service that allows you to share files easily.
-home: https://truecharts.org/charts/stable/picoshare
+home: https://truecharts.org/truetech/truecharts/charts/stable/picoshare
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/picoshare.webp
 keywords:
   - picoshare

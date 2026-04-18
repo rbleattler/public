@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Plex to AniList Sync.
-home: https://truecharts.org/charts/stable/plexanisync
+home: https://truecharts.org/truetech/truecharts/charts/stable/plexanisync
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/plexanisync.webp
 keywords:
   - plexanisync

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A custom SteamCMD chart that runs Sons Of The Forest Server.
-home: https://truecharts.org/charts/stable/sonsoftheforest
+home: https://truecharts.org/truetech/truecharts/charts/stable/sonsoftheforest
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/sonsoftheforest.webp
 keywords:
   - sonsoftheforest

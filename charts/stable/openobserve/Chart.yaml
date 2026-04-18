@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Fast, scalable and cost-effective open source observability platform
-home: https://truecharts.org/charts/stable/openobserve
+home: https://truecharts.org/truetech/truecharts/charts/stable/openobserve
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/openobserve.webp
 keywords:
   - logs

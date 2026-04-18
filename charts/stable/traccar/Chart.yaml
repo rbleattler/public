@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Traccar is an open source GPS tracking system.
-home: https://truecharts.org/charts/stable/traccar
+home: https://truecharts.org/truetech/truecharts/charts/stable/traccar
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/traccar.webp
 keywords:
   - traccar

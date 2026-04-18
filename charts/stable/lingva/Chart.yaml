@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Alternative front-end for Google Translate, serving as a Free and Open Source translator with over a hundred languages available
-home: https://truecharts.org/charts/stable/lingva
+home: https://truecharts.org/truetech/truecharts/charts/stable/lingva
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/lingva.webp
 keywords:
   - lingva

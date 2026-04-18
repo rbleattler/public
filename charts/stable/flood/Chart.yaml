@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Flood is a monitoring service for various torrent clients
-home: https://truecharts.org/charts/stable/flood
+home: https://truecharts.org/truetech/truecharts/charts/stable/flood
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/flood.webp
 keywords:
   - flood

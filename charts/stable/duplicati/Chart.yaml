@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Store securely encrypted backups on cloud storage services!
-home: https://truecharts.org/charts/stable/duplicati
+home: https://truecharts.org/truetech/truecharts/charts/stable/duplicati
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/duplicati.webp
 keywords:
   - duplicati

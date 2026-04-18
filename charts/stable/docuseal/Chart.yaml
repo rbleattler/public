@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Open source DocuSign alternative. Create, fill, and sign digital documents.
-home: https://truecharts.org/charts/stable/docuseal
+home: https://truecharts.org/truetech/truecharts/charts/stable/docuseal
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/docuseal.webp
 keywords:
   - docuseal

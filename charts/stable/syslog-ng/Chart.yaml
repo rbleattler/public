@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: syslog-ng allows you to flexibly collect, parse, classify, rewrite and correlate logs.
-home: https://truecharts.org/charts/stable/syslog-ng
+home: https://truecharts.org/truetech/truecharts/charts/stable/syslog-ng
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/syslog-ng.webp
 keywords:
   - syslog-ng

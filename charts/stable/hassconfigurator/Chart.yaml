@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Home Assistant online configurator Chart from https://github.com/danielperna84/hass-configurator
-home: https://truecharts.org/charts/stable/hassconfigurator
+home: https://truecharts.org/truetech/truecharts/charts/stable/hassconfigurator
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/hassconfigurator.webp
 keywords:
   - hassconfigurator

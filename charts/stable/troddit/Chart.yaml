@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A web client for Reddit
-home: https://truecharts.org/charts/stable/troddit
+home: https://truecharts.org/truetech/truecharts/charts/stable/troddit
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/troddit.webp
 keywords:
   - troddit

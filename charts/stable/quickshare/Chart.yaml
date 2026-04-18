@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Quick and simple file sharing between different devices.
-home: https://truecharts.org/charts/stable/quickshare
+home: https://truecharts.org/truetech/truecharts/charts/stable/quickshare
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/quickshare.webp
 keywords:
   - quickshare

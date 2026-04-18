@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Tandoor Recipes is a Django application to manage, tag and search recipes using either built in models or external storage providers hosting PDF's, Images or other files.
-home: https://truecharts.org/charts/stable/tandoor-recipes
+home: https://truecharts.org/truetech/truecharts/charts/stable/tandoor-recipes
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/tandoor-recipes.webp
 keywords:
   - tandoor

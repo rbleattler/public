@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: An organizer for your porn, written in Go
-home: https://truecharts.org/charts/stable/stash
+home: https://truecharts.org/truetech/truecharts/charts/stable/stash
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/stash.webp
 keywords:
   - porn

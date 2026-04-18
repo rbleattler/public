@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: This Chart will download and install SteamCMD. It will also install AssettoCorsa and run it.
-home: https://truecharts.org/charts/stable/assettocorsa
+home: https://truecharts.org/truetech/truecharts/charts/stable/assettocorsa
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/assettocorsa.webp
 keywords:
   - assettocorsa

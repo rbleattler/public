@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Mudislanders Template for mounting OpenRA's dedicated server by rmoriz [br][br]
-home: https://truecharts.org/charts/stable/openra
+home: https://truecharts.org/truetech/truecharts/charts/stable/openra
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/openra.webp
 keywords:
   - openra

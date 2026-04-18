@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: SSHwifty is a SSH and Telnet connector made for the Web.
-home: https://truecharts.org/charts/stable/sshwifty
+home: https://truecharts.org/truetech/truecharts/charts/stable/sshwifty
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/sshwifty.webp
 keywords:
   - ssh

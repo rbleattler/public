@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Endlessh is an SSH tarpit that very slowly sends an endless, random SSH banner.
-home: https://truecharts.org/charts/stable/endlessh
+home: https://truecharts.org/truetech/truecharts/charts/stable/endlessh
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/endlessh.webp
 keywords:
   - endlessh

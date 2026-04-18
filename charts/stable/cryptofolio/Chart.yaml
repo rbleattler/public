@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Track your cryptocurrency holdings/portfolio
-home: https://truecharts.org/charts/stable/cryptofolio
+home: https://truecharts.org/truetech/truecharts/charts/stable/cryptofolio
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/cryptofolio.webp
 keywords:
   - cryptofolio

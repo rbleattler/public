@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Looks and smells like Sonarr but made for music
-home: https://truecharts.org/charts/stable/lidarr
+home: https://truecharts.org/truetech/truecharts/charts/stable/lidarr
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/lidarr.webp
 keywords:
   - lidarr

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: fast, easy, and free BitTorrent client.
-home: https://truecharts.org/charts/stable/transmission
+home: https://truecharts.org/truetech/truecharts/charts/stable/transmission
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/transmission.webp
 keywords:
   - transmission

@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Python script to update metadata and automatically build collections.
-home: https://truecharts.org/charts/stable/kometa
+home: https://truecharts.org/truetech/truecharts/charts/stable/kometa
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/kometa.webp
 keywords:
   - kometa

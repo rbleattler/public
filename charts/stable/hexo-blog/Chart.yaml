@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A self-hosted blogging platform in which posts are written in markdown
-home: https://truecharts.org/charts/stable/hexo-blog
+home: https://truecharts.org/truetech/truecharts/charts/stable/hexo-blog
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/hexo-blog.webp
 keywords:
   - hexo-blog

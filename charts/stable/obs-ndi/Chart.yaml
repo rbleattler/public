@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Docker Open Broadcaster Software (obs).
-home: https://truecharts.org/charts/stable/obs-ndi
+home: https://truecharts.org/truetech/truecharts/charts/stable/obs-ndi
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/obs-ndi.webp
 keywords:
   - obs-ndi

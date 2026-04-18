@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: OpenHab is a home-automation application
-home: https://truecharts.org/charts/stable/openhab
+home: https://truecharts.org/truetech/truecharts/charts/stable/openhab
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/openhab.webp
 keywords:
   - openhab

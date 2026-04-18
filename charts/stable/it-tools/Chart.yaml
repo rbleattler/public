@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Useful tools for developer and people working in IT.
-home: https://truecharts.org/charts/stable/it-tools
+home: https://truecharts.org/truetech/truecharts/charts/stable/it-tools
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/it-tools.webp
 keywords:
   - it-tools

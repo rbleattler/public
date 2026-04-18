@@ -34,7 +34,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Welcome to the free social web
-home: https://truecharts.org/charts/stable/friendica
+home: https://truecharts.org/truetech/truecharts/charts/stable/friendica
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/friendica.webp
 keywords:
   - friend

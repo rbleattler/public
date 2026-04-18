@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Runs Ark Survival Evolved and Ark-Server-Manager
-home: https://truecharts.org/charts/stable/arksurvivalevolved
+home: https://truecharts.org/truetech/truecharts/charts/stable/arksurvivalevolved
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/arksurvivalevolved.webp
 keywords:
   - arksurvivalevolved

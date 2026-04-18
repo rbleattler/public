@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Jellyfin is a Free Software Media System
-home: https://truecharts.org/charts/stable/jellyfin
+home: https://truecharts.org/truetech/truecharts/charts/stable/jellyfin
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/jellyfin.webp
 keywords:
   - jellyfin

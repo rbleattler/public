@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: A comprehensive IPTV management platform for organizing and streaming public broadcast content through Plex DVR, Emby, and Jellyfin Live TV
-home: https://truecharts.org/charts/stable/streammaster
+home: https://truecharts.org/truetech/truecharts/charts/stable/streammaster
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/streammaster.webp
 keywords:
   - streammaster

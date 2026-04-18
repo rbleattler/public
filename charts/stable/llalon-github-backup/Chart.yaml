@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Automatically backup github repositories on schedule. Allows for custom configuration.
-home: https://truecharts.org/charts/stable/llalon-github-backup
+home: https://truecharts.org/truetech/truecharts/charts/stable/llalon-github-backup
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/llalon-github-backup.webp
 keywords:
   - llalon-github-backup

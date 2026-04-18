@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: BatNoter is a web application that allows users to store notes in their git repository.
-home: https://truecharts.org/charts/stable/batnoter
+home: https://truecharts.org/truetech/truecharts/charts/stable/batnoter
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/batnoter.webp
 keywords:
   - notes

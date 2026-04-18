@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Unified UI and API for processing and training images for facial recognition
-home: https://truecharts.org/charts/stable/double-take
+home: https://truecharts.org/truetech/truecharts/charts/stable/double-take
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/double-take.webp
 keywords:
   - ai

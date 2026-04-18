@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Librespeed is a HTML5 webpage to test upload and download speeds
-home: https://truecharts.org/charts/stable/librespeed
+home: https://truecharts.org/truetech/truecharts/charts/stable/librespeed
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/librespeed.webp
 keywords:
   - librespeed

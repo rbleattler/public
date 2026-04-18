@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Drag & drop UI to build your customized LLM flow.
-home: https://truecharts.org/charts/stable/flowise
+home: https://truecharts.org/truetech/truecharts/charts/stable/flowise
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/flowise.webp
 keywords:
   - flowise

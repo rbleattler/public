@@ -27,7 +27,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: The to-do app to organize your life.
-home: https://truecharts.org/charts/stable/vikunja
+home: https://truecharts.org/truetech/truecharts/charts/stable/vikunja
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/vikunja.webp
 keywords:
   - vikunja

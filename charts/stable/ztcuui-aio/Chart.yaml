@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: ZeroTier network controller user interface in a Docker container
-home: https://truecharts.org/charts/stable/ztcuui-aio
+home: https://truecharts.org/truetech/truecharts/charts/stable/ztcuui-aio
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/ztcuui-aio.webp
 keywords:
   - ztcuui-aio

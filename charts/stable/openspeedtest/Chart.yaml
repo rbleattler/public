@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: HTML5 Network Speed Test Server. You can test download & upload speed from any device within your network with a web browser that is IE10 or new.
-home: https://truecharts.org/charts/stable/openspeedtest
+home: https://truecharts.org/truetech/truecharts/charts/stable/openspeedtest
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/openspeedtest.webp
 keywords:
   - speedtest

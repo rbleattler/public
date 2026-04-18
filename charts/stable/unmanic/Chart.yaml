@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Unmanic is a simple tool for optimising your file library.
-home: https://truecharts.org/charts/stable/unmanic
+home: https://truecharts.org/truetech/truecharts/charts/stable/unmanic
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/unmanic.webp
 keywords:
   - media

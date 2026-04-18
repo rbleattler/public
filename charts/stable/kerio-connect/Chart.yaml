@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Kerio Connect is Mail/Groupware like Microsoft Exchange, but running on Linux. More Informations under www.kerio.com/connect
-home: https://truecharts.org/charts/stable/kerio-connect
+home: https://truecharts.org/truetech/truecharts/charts/stable/kerio-connect
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/kerio-connect.webp
 keywords:
   - kerio-connect

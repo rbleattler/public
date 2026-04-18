@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: This Chart will download and run Luna Multiplayer for Kerbal Space Program (KSP).
-home: https://truecharts.org/charts/stable/kerbalspaceprogram-lmp
+home: https://truecharts.org/truetech/truecharts/charts/stable/kerbalspaceprogram-lmp
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/kerbalspaceprogram-lmp.webp
 keywords:
   - kerbalspaceprogram-lmp

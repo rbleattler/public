@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Synchronize Pi-hole v6.x configuration to replicas.
-home: https://truecharts.org/charts/stable/nebula-sync
+home: https://truecharts.org/truetech/truecharts/charts/stable/nebula-sync
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/nebula-sync.webp
 keywords:
   - pihole

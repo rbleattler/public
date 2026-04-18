@@ -21,7 +21,7 @@ dependencies:
 deprecated: false
 description: |
   Bitcoin wallet with GUI over VNC and NoVNC.&#xD;
-home: https://truecharts.org/charts/stable/bitcoinwalletgui
+home: https://truecharts.org/truetech/truecharts/charts/stable/bitcoinwalletgui
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/bitcoinwalletgui.webp
 keywords:
   - bitcoinwalletgui

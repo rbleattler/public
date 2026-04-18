@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem.
-home: https://truecharts.org/charts/stable/maintainerr
+home: https://truecharts.org/truetech/truecharts/charts/stable/maintainerr
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/maintainerr.webp
 keywords:
   - maintainerr

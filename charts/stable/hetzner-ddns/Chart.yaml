@@ -20,7 +20,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: This Chart will allow you to use the Hetzner DNS Service (https://www.hetzner.com/dns-console) as a Dynamic DNS (DDNS) Provider.
-home: https://truecharts.org/charts/stable/hetzner-ddns
+home: https://truecharts.org/truetech/truecharts/charts/stable/hetzner-ddns
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/hetzner-ddns.webp
 keywords:
   - hetzner-ddns
