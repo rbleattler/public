@@ -2,7 +2,7 @@
 image:
   repository: oci.trueforge.org/containerforge/home-assistant
   pullPolicy: IfNotPresent
-  tag: "2026.2.2@sha256:b20daeb648723d45ffd4c69b3deb9c4fb307c82dee710bc5a5c33be456453e0b"
+  tag: "2026.4.3@sha256:dda5dab39434561be67c17b425eae94c3c4b3b3c7ae6ce43d4a5080ee27612b6"
 
 yqImage:
   pullPolicy: IfNotPresent
