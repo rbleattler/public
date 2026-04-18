@@ -50,12 +50,6 @@ persistence:
         nginx:
           mountPath: /etc/nginx/templates/nginx.conf.template
           subPath: nginx.conf.template
-  plugins:
-    enabled: true
-    mountPath: /var/www/html/tt-rss/plugins.local
-  themes:
-    enabled: true
-    mountPath: /var/www/html/tt-rss/themes.local
 cnpg:
   main:
     enabled: true
@@ -127,7 +121,7 @@ workload:
             APP_WEB_ROOT: /var/www/html/tt-rss
             APP_BASE: ""
   updater:
-    enabled: false
+    enabled: true
     type: Deployment
     podSpec:
       containers:
@@ -140,21 +134,21 @@ workload:
             liveness:
               type: exec
               command:
-                - /usr/bin/test
-                - -f
-                - "/var/www/html/tt-rss/lock/update_daemon.lock"
+                - /bin/sh
+                - -c
+                - test -f /var/www/html/tt-rss/lock/update_daemon.lock
             readiness:
               type: exec
               command:
-                - /usr/bin/test
-                - -f
-                - "/var/www/html/tt-rss/lock/update_daemon.lock"
+                - /bin/sh
+                - -c
+                - test -f /var/www/html/tt-rss/lock/update_daemon.lock
             startup:
               type: exec
               command:
-                - /usr/bin/test
-                - -f
-                - "/var/www/html/tt-rss/lock/update_daemon.lock"
+                - /bin/sh
+                - -c
+                - test -f /var/www/html/tt-rss/lock/update_daemon.lock
           env:
             TTRSS_SELF_URL_PATH: ""
             TTRSS_DB_NAME: "{{ .Values.cnpg.main.database }}"
