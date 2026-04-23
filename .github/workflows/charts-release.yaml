@@ -222,15 +222,7 @@ jobs:
               echo "No directories in ./changelogs. Skipping copy."
           fi
 
-          export DEBUG=false
-          export STRICT=true
-          go-yq --version
-
-          for item in charts/*/*/Chart.yaml; do
-            # TODO: Move all website docs structure generation to charttool
-            IFS='/' read -r -a chart_parts <<<"$item"
-            ./.github/scripts/chart-docs.sh "${chart_parts[1]}/${chart_parts[2]}"
-          done
+          forgetool charts gendocs --charts-dir ./charts --website-dir ./website
           rm -rf ./website/truecharts/src/content/docs-common
           mv ./website/truecharts/src/content/docs/charts/library/common ./website/truecharts/src/content/docs-common
 
