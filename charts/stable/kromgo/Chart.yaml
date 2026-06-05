@@ -36,7 +36,8 @@ maintainers:
 name: kromgo
 sources:
   - https://ghcr.io/home-operations/kromgo
-  - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kromgo
   - https://github.com/home-operations/kromgo
+  - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kromgo
 type: application
 version: 3.0.0
+
