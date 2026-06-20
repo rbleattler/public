@@ -32,8 +32,9 @@ maintainers:
     url: https://truecharts.org
 name: profilarr
 sources:
+  - https://ghcr.io/dictionarry-hub/profilarr
   - https://github.com/Dictionarry-Hub/profilarr
   - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/profilarr
-  - https://ghcr.io/dictionarry-hub/profilarr
 type: application
 version: 4.0.0
+
