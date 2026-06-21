@@ -49,11 +49,11 @@ Check the logs for the container and verify the postgres data was populated, you
                 enabled: false
                 startup:
                 enabled: false
-              args: 
+              args:
                 - pgloader
                 - --with
                 - "quote identifiers"
-                - --with 
+                - --with
                 - "data only"
                 - /app/config/db.sqlite3
                 - "{{ .Values.cnpg.main.creds.std }}"

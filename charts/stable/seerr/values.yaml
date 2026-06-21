@@ -28,7 +28,7 @@ workload:
             # User Defined
             # is this really needed?
             # JELLYFIN_TYPE: ""
-            LOG_LEVEL: "info"            
+            LOG_LEVEL: "info"
             DB_TYPE: postgres
             DB_HOST:
               secretKeyRef:
