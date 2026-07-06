@@ -76,4 +76,3 @@ persistence:
     mountPath: /trash
   varrun:
     enabled: false
-  
